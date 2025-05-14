@@ -23,6 +23,7 @@ This project lists events in Sydney, scraped from available sources. The event d
 
    ```bash
    pip install -r requirements.txt
+   playwright install
    ```
 
 3. **Run the app:**
