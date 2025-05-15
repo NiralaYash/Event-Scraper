@@ -6,154 +6,66 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Sydney Events</title>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet" />
-  <style>
-    body {
-      font-family: 'Inter', sans-serif;
-      background-color: #f9f9f9;
-      margin: 0;
-      padding: 2rem;
-      color: #333;
-    }
-
-    h1 {
-      text-align: center;
-      margin-bottom: 2rem;
-    }
-
-    .event-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-      gap: 1.5rem;
-    }
-
-    .event-card {
-      background-color: white;
-      padding: 1.5rem;
-      border-radius: 12px;
-      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-    }
-
-    .event-title {
-      font-weight: 600;
-      font-size: 1.1rem;
-      margin-bottom: 0.5rem;
-    }
-
-    .event-date,
-    .event-location {
-      font-size: 0.9rem;
-      color: #666;
-      margin-bottom: 0.3rem;
-    }
-
-    .btn {
-      margin-top: auto;
-      padding: 0.5rem 1rem;
-      border: none;
-      background-color: #0077ff;
-      color: white;
-      border-radius: 8px;
-      font-weight: 500;
-      cursor: pointer;
-      transition: background-color 0.2s ease-in-out;
-    }
-
-    .btn:hover {
-      background-color: #005ecf;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
 </head>
 
 <body>
-
-  <h1>Sydney Events</h1>
-
-  <div class="event-container" id="events">
-    <!-- Events will be injected here -->
-  </div>
-
-  <!-- Email Modal -->
-  <div id="emailModal"
-    style="display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.5); align-items: center; justify-content: center;">
-    <div
-      style="background: white; padding: 2rem; border-radius: 12px; max-width: 400px; width: 90%; text-align: center;">
-      <p style="font-weight: 600; margin-bottom: 1rem;">Enter your email (optional)</p>
-      <input type="email" id="emailInput" placeholder="name@example.com (optional)"
-        style="width: 100%; padding: 0.5rem; margin-bottom: 1rem; border-radius: 8px; border: 1px solid #ccc;" />
-      <div style="display: flex; justify-content: space-between;">
-        <button onclick="submitEmail()"
-          style="padding: 0.5rem 1rem; background: #0077ff; color: white; border: none; border-radius: 8px;">Continue</button>
-        <button onclick="skipEmail()"
-          style="padding: 0.5rem 1rem; background: transparent; border: none; color: #0077ff;">Skip</button>
+  <div style="max-width: 1200px; margin: 0 auto">
+    <h1>Sydney Events</h1>
+    <div class="event-container" id="events">
+      <!-- Event cards will be injected here by JavaScript -->
+    </div>
+    <!-- Email Modal -->
+    <div id="emailModal" style="
+        display: none;
+        position: fixed;
+        inset: 0;
+        background: rgba(0, 0, 0, 0.5);
+        align-items: center;
+        justify-content: center;
+      ">
+      <div style="
+          background: white;
+          padding: 2rem;
+          border-radius: 12px;
+          max-width: 400px;
+          width: 90%;
+          text-align: center;
+        ">
+        <p style="font-weight: 600; margin-bottom: 1rem">
+          Enter your email (optional)
+        </p>
+        <input type="email" id="emailInput" placeholder="name@example.com (optional)" style="
+            width: 100%;
+            padding: 0.5rem;
+            margin-bottom: 1rem;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+          " />
+        <div style="display: flex; justify-content: space-between">
+          <button onclick="submitEmail()" style="
+              padding: 0.5rem 1rem;
+              background: #0077ff;
+              color: white;
+              border: none;
+              border-radius: 8px;
+            ">
+            Continue
+          </button>
+          <button onclick="skipEmail()" style="
+              padding: 0.5rem 1rem;
+              background: transparent;
+              border: none;
+              color: #0077ff;
+            ">
+            Skip
+          </button>
+        </div>
       </div>
     </div>
   </div>
 
-  <script>
-    async function loadEvents() {
-      try {
-        const res = await fetch('/api/events');
-        const data = await res.json();
-        const container = document.getElementById('events');
-        container.innerHTML = ''; // Clear old
-
-        data.forEach(event => {
-          const card = document.createElement('div');
-          card.className = 'event-card';
-
-          card.innerHTML = `
-            <div class="event-title">${event.title}</div>
-            <div class="event-date">${event.date}</div>
-            <div class="event-location">${event.location}</div>
-            <button class="btn" onclick="handleGetTickets('${event.link}')">GET TICKETS</button>
-          `;
-
-          container.appendChild(card);
-        });
-      } catch (err) {
-        console.error('Failed to load events:', err);
-      }
-    }
-
-    let currentLink = "";
-
-    function handleGetTickets(link) {
-      currentLink = link;
-      document.getElementById('emailInput').value = "";
-      document.getElementById('emailModal').style.display = "flex";
-    }
-
-    async function submitEmail() {
-      const email = document.getElementById('emailInput').value.trim();
-      if (email && email.includes('@')) {
-        try {
-          await fetch('/log_email', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ email, link: currentLink })
-          });
-        } catch (err) {
-          console.warn("Failed to log email.");
-        }
-      }
-      redirectToEvent();
-    }
-
-    function skipEmail() {
-      redirectToEvent();
-    }
-
-    function redirectToEvent() {
-      document.getElementById('emailModal').style.display = "none";
-      window.location.href = currentLink;
-    }
-
-    window.onload = loadEvents;
-  </script>
-
+  <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
 </body>
 
 </html>

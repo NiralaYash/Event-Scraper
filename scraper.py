@@ -1,6 +1,5 @@
 from playwright.sync_api import sync_playwright
 
-
 def get_events():
     events = []
     seen_links = set()
@@ -10,21 +9,27 @@ def get_events():
         page = browser.new_page()
         page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=60000)
 
-        page.wait_for_timeout(8000)
-        page.screenshot(path="sydney_events.png", full_page=True)
+        try:
+            page.wait_for_selector('a.event-card-link', timeout=10000)
+        except Exception as e:
+            print("Timeout waiting for event cards:", e)
+            return []
 
         cards = page.query_selector_all('a.event-card-link')
         print(f"Found {len(cards)} event cards")
 
         for card in cards:
             try:
-                title_el = card.query_selector('h3')
-                title = title_el.inner_text().strip() if title_el else None
-                link = card.get_attribute("href").strip()
+                link = card.get_attribute("href")
                 location = card.get_attribute("data-event-location") or "Sydney"
+                image_el = card.query_selector('img.event-card-image')
+                image = image_el.get_attribute("src") if image_el else ""
 
-                # Skip cards with missing titles or already seen links
-                if not title or link in seen_links:
+                # Extract title from aria-label and clean it
+                aria_label = card.get_attribute("aria-label") or ""
+                title = aria_label.replace("View ", "").strip()
+
+                if not title or not link or link in seen_links:
                     continue
 
                 seen_links.add(link)
@@ -33,11 +38,12 @@ def get_events():
                     "title": title,
                     "date": "Upcoming",
                     "location": location,
-                    "link": link
+                    "link": link,
+                    "image": image
                 })
 
             except Exception as e:
-                print("Failed to parse event:", e)
+                print("Error parsing card:", e)
                 continue
 
         browser.close()
