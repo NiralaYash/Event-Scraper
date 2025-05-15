@@ -2,7 +2,7 @@
 
 ## Description
 
-This project lists events in Sydney, scraped from available sources. The event data is stored in a CSV file and displayed on a web page. A placeholder "GET TICKETS" button is included for future email capture functionality.
+This project lists events in Sydney, scraped from available sources. The event data is stored in a CSV file and displayed on a web page. A placeholder "GET TICKETS" button for email capture functionality.
 
 ## Requirements
 
