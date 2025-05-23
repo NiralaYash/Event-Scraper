@@ -9,6 +9,7 @@ def get_events():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=60000)
+        page.wait_for_timeout(8000)
         page.wait_for_selector("a.event-card-link", timeout=10000)
         cards = page.query_selector_all("a.event-card-link")
 
