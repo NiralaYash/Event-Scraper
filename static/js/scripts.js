@@ -58,7 +58,7 @@ function skipEmail() {
 
 function redirectToEvent() {
   document.getElementById('emailModal').style.display = "none";
-  window.location.href = currentLink;
+  window.open(currentLink, '_blank');
 }
 
 window.addEventListener('load', loadEvents);
