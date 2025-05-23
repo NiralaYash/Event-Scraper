@@ -8,13 +8,24 @@ def get_events():
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
-        page = browser.new_page()
-        page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=60000, wait_until="networkidle")
-        page.wait_for_timeout(10000)
+        context = browser.new_context(user_agent=(
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 (KHTML, like Gecko) "
+            "Chrome/122.0.0.0 Safari/537.36"
+        ))
+        page = context.new_page()
+
+        try:
+            print("⏳ Navigating to Eventbrite...")
+            page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=90000)
+            page.wait_for_timeout(10000)  # give JS time to render
+        except Exception as e:
+            print(f"❌ Page failed to load: {e}")
+            page.screenshot(path="debug-goto-fail.png", full_page=True)
+            return []
+
         cards = page.query_selector_all("a.event-card-link")
         print(f"✅ Found {len(cards)} cards")
-        if not cards:
-            page.screenshot(path="debug-fail.png", full_page=True)
 
 
         for card in cards:
