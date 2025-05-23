@@ -6,13 +6,48 @@ body {
   font-family: "Inter", sans-serif;
   background-color: #f9f9f9;
   margin: 0;
-  padding: 2rem;
+  padding: 0 2rem 2rem 2rem; /* No top padding */
   color: #333;
 }
 
 h1 {
   text-align: center;
   margin-bottom: 2rem;
+}
+
+.app-header {
+  width: 100vw;
+  position: relative;
+  z-index: 1;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: 
+    radial-gradient(circle at 20% 0%, rgba(20,30,48,0.92) 0%, rgba(36,59,85,0.0) 50%),
+    radial-gradient(circle at 80% 0%, rgba(20,30,48,0.75) 0%, rgba(36,59,85,0.0) 50%),
+    url('https://images.unsplash.com/photo-1523482580672-f109ba8cb9be?q=80&w=2730&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') center 60%/cover no-repeat;
+  margin-bottom: 2rem;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.app-header h1 {
+  color: #fff;
+  font-size: 2.3rem; /* Slightly smaller for balance */
+  font-weight: 900;
+  letter-spacing: 2.5px;
+  margin: 0;
+  padding: 0 2rem;
+  text-shadow:
+    0 8px 32px rgba(0,0,0,0.7),
+    0 2px 8px rgba(0,0,0,0.45),
+    0 1px 0 #222;
+  z-index: 2;
 }
 
 .event-container {
@@ -64,4 +99,24 @@ h1 {
 .btn:hover {
   background-color: #0077ff;
   color: white;
+}
+
+.header-wave {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -1px;
+  width: 100%;
+  height: 60px;
+  line-height: 0;
+  z-index: 2;
+  pointer-events: none;
+}
+
+.header-wave svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  transform: scaleX(-1); /* Invert the wave horizontally */
+  filter: blur(1.2px);   /* Add blur to the SVG only */
 }
