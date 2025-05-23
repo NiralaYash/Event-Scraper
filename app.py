@@ -2,23 +2,20 @@ from flask import Flask, jsonify, render_template, request
 from datetime import datetime, timedelta
 from scraper import get_events  # move your Playwright scraper to scraper.py
 import threading
+import json
+import os
+
+from scraper import save_events_to_json
 
 app = Flask(__name__)
 
-# In-memory cache
-cached_events = []
-last_scraped = None
-cache_duration = timedelta(minutes=10)
+EVENT_FILE = "events.json"
 
-def update_cache():
-    global cached_events, last_scraped
-    print("Scraping events...")
-    try:
-        cached_events = get_events()
-        last_scraped = datetime.now()
-        print(f"Cached {len(cached_events)} events.")
-    except Exception as e:
-        print("Scraping failed:", e)
+# Run scraper on startup if possible
+try:
+    save_events_to_json(EVENT_FILE)
+except Exception as e:
+    print("⚠️ Scraper failed, falling back to cached data:", e)
 
 @app.route('/')
 def home():
@@ -26,15 +23,13 @@ def home():
 
 @app.route('/api/events')
 def events():
-    global last_scraped
-    now = datetime.now()
-
-    if not cached_events or not last_scraped or now - last_scraped > cache_duration:
-        # Scrape in a background thread to avoid freezing page load
-        thread = threading.Thread(target=update_cache)
-        thread.start()
-    
-    return jsonify(cached_events)
+    try:
+        with open(EVENT_FILE, "r") as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        print("Failed to load events:", e)
+        return jsonify([])
 
 @app.route('/log_email', methods=['POST'])
 def log_email():
@@ -52,7 +47,5 @@ def log_email():
     return jsonify({'status': 'success'})
 
 if __name__ == '__main__':
-    update_cache()  # Initial load
-    import os
     port = int(os.environ.get("PORT", 5000))
-    app.run(host="0.0.0.0", port=port)
+    app.run(debug=True, host='0.0.0.0', port=port)
