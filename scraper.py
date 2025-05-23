@@ -1,5 +1,6 @@
 import json
 from playwright.sync_api import sync_playwright
+from datetime import datetime
 
 def get_events():
     events = []
@@ -44,9 +45,13 @@ def get_events():
 
 def save_events_to_json(path="events.json"):
     events = get_events()
+    data = {
+        "last_updated": datetime.utcnow().isoformat() + "Z",
+        "events": events
+    }
     with open(path, "w") as f:
-        json.dump(events, f, indent=2)
-    print(f"✅ Saved {len(events)} events to {path}")
+        json.dump(data, f, indent=2)
+    print(f"✅ Saved {len(events)} events to {path} at {data['last_updated']}")
 
 if __name__ == "__main__":
     save_events_to_json()

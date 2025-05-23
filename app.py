@@ -21,12 +21,13 @@ except Exception as e:
 def home():
     return render_template('index.html')
 
-@app.route('/api/events')
+@app.route("/api/events")
 def events():
     try:
-        with open(EVENT_FILE, "r") as f:
+        with open("events.json", "r") as f:
             data = json.load(f)
-        return jsonify(data)
+        return jsonify(data["events"])
+    
     except Exception as e:
         print("Failed to load events:", e)
         return jsonify([])
