@@ -10,10 +10,12 @@ def get_events():
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
         page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=60000, wait_until="networkidle")
-        page.wait_for_timeout(8000)
-        page.wait_for_selector("a.event-card-link", timeout=10000)
-
+        page.wait_for_timeout(10000)
         cards = page.query_selector_all("a.event-card-link")
+        print(f"✅ Found {len(cards)} cards")
+        if not cards:
+            page.screenshot(path="debug-fail.png", full_page=True)
+
 
         for card in cards:
             try:
@@ -37,8 +39,8 @@ def get_events():
                     "image": image
                 })
 
-            except Exception:
-                continue
+            except Exception as e:
+                print("⚠️ Error parsing card:", e)
 
         browser.close()
     return events
