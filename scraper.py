@@ -8,9 +8,10 @@ def get_events():
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=True)
         page = browser.new_page()
-        page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=60000)
+        page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=60000, wait_until="networkidle")
         page.wait_for_timeout(8000)
         page.wait_for_selector("a.event-card-link", timeout=10000)
+
         cards = page.query_selector_all("a.event-card-link")
 
         for card in cards:
