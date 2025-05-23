@@ -1,4 +1,3 @@
-# Automatically Scraped Events Web Page
 # Sydney Events Web App
 
 A minimal full-stack web app that displays upcoming events in Sydney, with an optional email capture for tickets. Built using Flask, Playwright (for scraping), HTML, CSS, and JS.
