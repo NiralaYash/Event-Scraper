@@ -1,37 +1,40 @@
 # Automatically Scraped Events Web Page
+# Sydney Events Web App
 
-## Description
-
-This project lists events in Sydney, scraped from available sources. The event data is stored in a CSV file and displayed on a web page. A placeholder "GET TICKETS" button for email capture functionality.
-
-## Requirements
-
-* Python 3.x
-* Flask
-* Other dependencies listed in `requirements.txt`
-
-## Setup Instructions
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/NiralaYash/Event-Scraper
-   cd Event-Scraper
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   playwright install
-   ```
-
-3. **Run the app:**
-
-   ```bash
-   python app.py
-   ```
-
-4. Open your browser and go to `http://127.0.0.1:5000` to view the web page.
+A minimal full-stack web app that displays upcoming events in Sydney, with an optional email capture for tickets. Built using Flask, Playwright (for scraping), HTML, CSS, and JS.
 
 ---
+
+## 🌐 Live Demo
+
+Check out the working demo here:  
+👉 [Sydney Events](https://event-scraper-cuxl.onrender.com/)
+
+> Note: The live version uses cached event data (`events.json`) to avoid deployment issues with headless scraping.
+
+---
+
+## 🧪 Run Locally (with Live Scraping)
+
+To run the app with live scraping and updated event data:
+
+### 🔧 Requirements
+- Python 3.10+
+- [Playwright](https://playwright.dev/python/docs/intro) installed
+
+### 🛠️ Steps
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/sydney-events-app.git
+cd sydney-events-app
+
+# Install dependencies
+pip install -r requirements.txt
+playwright install
+
+# Run scraper to fetch fresh events
+python scraper.py
+
+# Start Flask server
+python app.py
