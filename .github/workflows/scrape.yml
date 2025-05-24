@@ -2,7 +2,7 @@ name: Auto Scrape Events
 
 on:
   schedule:
-    - cron: '0 */7 * * *'  # every 7 hours
+    - cron: '0 */6 * * *'  # every 6 hours
   workflow_dispatch:
 
 jobs:
