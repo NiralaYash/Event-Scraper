@@ -1,10 +1,9 @@
 from flask import Flask, jsonify, render_template, request
 from datetime import datetime, timedelta
-from scraper import get_events  # move your Playwright scraper to scraper.py
 import threading
 import json
 import os
-
+from flask import make_response, jsonify
 from scraper import save_events_to_json
 
 app = Flask(__name__)
@@ -26,8 +25,9 @@ def events():
     try:
         with open("events.json", "r") as f:
             data = json.load(f)
-        return jsonify(data["events"])
-    
+        response = make_response(jsonify(data))
+        response.headers["Cache-Control"] = "public, max-age=25200"  # 7 hours = 25200s
+        return response
     except Exception as e:
         print("Failed to load events:", e)
         return jsonify([])
