@@ -2,10 +2,11 @@ async function loadEvents() {
   try {
     const res = await fetch('/api/events');
     const data = await res.json();
+    const events = data.events || []; 
     const container = document.getElementById('events');
     container.innerHTML = '';
 
-    data.forEach(event => {
+    events.forEach(event => {
       const card = document.createElement('div');
       card.className = 'event-card';
 
