@@ -34,11 +34,3 @@ jobs:
           git add events.json
           git commit -m "🔄 Auto-update events.json [skip ci]" || echo "No changes"
           git push
-
-      - name: Upload debug screenshots
-        if: always()
-        uses: actions/upload-artifact@v3.1.3
-        with:
-          name: scraper-screenshots
-          path: |
-            debug-*.png
