@@ -2,8 +2,8 @@ name: Auto Scrape Events
 
 on:
   schedule:
-    - cron: '30 18 * * *'  # every day at 6:30 PM UTC (or 12 AM IST)
-  workflow_dispatch:      # allows manual trigger
+    - cron: '0 */7 * * *'  # every 7 hours
+  workflow_dispatch:
 
 jobs:
   scrape:
