@@ -1,6 +1,7 @@
 import json
-from playwright.sync_api import sync_playwright
 from datetime import datetime
+from playwright.sync_api import sync_playwright
+import os
 
 def get_events():
     events = []
@@ -18,7 +19,7 @@ def get_events():
         try:
             print("⏳ Navigating to Eventbrite...")
             page.goto("https://www.eventbrite.com.au/d/australia--sydney/events/", timeout=90000)
-            page.wait_for_timeout(10000)  # give JS time to render
+            page.wait_for_timeout(10000)
         except Exception as e:
             print(f"❌ Page failed to load: {e}")
             page.screenshot(path="debug-goto-fail.png", full_page=True)
@@ -27,6 +28,8 @@ def get_events():
         cards = page.query_selector_all("a.event-card-link")
         print(f"✅ Found {len(cards)} cards")
 
+        if not cards:
+            page.screenshot(path="debug-no-cards.png", full_page=True)
 
         for card in cards:
             try:
@@ -49,15 +52,19 @@ def get_events():
                     "link": link,
                     "image": image
                 })
-
             except Exception as e:
                 print("⚠️ Error parsing card:", e)
 
         browser.close()
     return events
 
+
 def save_events_to_json(path="events.json"):
     events = get_events()
+    if not events:
+        print("⚠️ No events found. Keeping previous data.")
+        return  # Skip writing if scraper failed
+
     data = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
         "events": events
@@ -65,6 +72,7 @@ def save_events_to_json(path="events.json"):
     with open(path, "w") as f:
         json.dump(data, f, indent=2)
     print(f"✅ Saved {len(events)} events to {path} at {data['last_updated']}")
+
 
 if __name__ == "__main__":
     save_events_to_json()
