@@ -10,6 +10,7 @@
 </head>
 
 <body>
+
   <div style="max-width: 1200px; margin: 0 auto">
     <header class="app-header">
       <h1>Sydney Events</h1>
@@ -19,9 +20,11 @@
         </svg>
       </div>
     </header>
-    <div class="event-container" id="events">
-      <!-- Event cards will be injected here by JavaScript -->
-    </div>
+    <section class="events-section">
+      <div class="event-container" id="events">
+        <!-- Event cards will be injected here by JavaScript -->
+      </div>
+    </section>
     <!-- Email Modal -->
     <div id="emailModal" style="
         display: none;
@@ -80,14 +83,12 @@
 
   </div>
 
-  <footer
-    style="text-align: center; font-size: 0.8rem; color: #888; margin-top: 3rem; padding: 1rem 0; border-top: 1px solid #eee;">
-    Data sourced from <a href="https://www.eventbrite.com.au/d/australia--sydney/events/" target="_blank"
-      style="color: #0077ff; text-decoration: none;">Eventbrite</a>.
+  <footer class="site-footer">
+    Data sourced from <a href="https://www.eventbrite.com.au/d/australia--sydney/events/"
+      target="_blank">Eventbrite</a>.
     <br />
     View the code on
-    <a href="https://github.com/NiralaYash" target="_blank"
-      style="color: #0077ff; text-decoration: none; font-weight: 500;">
+    <a href="https://github.com/NiralaYash" target="_blank">
       GitHub ↗
     </a>
   </footer>
