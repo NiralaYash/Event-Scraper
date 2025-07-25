@@ -1,13 +1,6 @@
 {
-  "last_updated": "2025-07-23T12:45:23.902162Z",
+  "last_updated": "2025-07-25T18:31:27.099618Z",
   "events": [
-    {
-      "title": "Mentor Walks Sydney: Get guidance and grow your network",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/mentor-walks-sydney-get-guidance-and-grow-your-network-tickets-1116297880009?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F918720033%2F1787448250623%2F1%2Foriginal.20241217-073103?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.431818181818&fp-y=0.509328358209&s=6ba3852f110e32e82f7535549b6132fa"
-    },
     {
       "title": "The Glow Getaway",
       "date": "Upcoming",
@@ -16,11 +9,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1069599243%2F1640225253423%2F1%2Foriginal.20250709-043710?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.44696969697&fp-y=0.490706319703&s=b9a4ceeeee43e35bd3247ea9b586e5df"
     },
     {
-      "title": "Life by Design Workshop: Habits with Ease",
+      "title": "HSC PDHPE",
       "date": "Upcoming",
-      "location": "Summer Hill, NSW",
-      "link": "https://www.eventbrite.com.au/e/life-by-design-workshop-habits-with-ease-tickets-1014185625507?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F996543763%2F238168678609%2F1%2Foriginal.20250331-104458?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1910%2C955&s=29605e8d16863855e40f0c0e471f6f11"
+      "location": "Marrickville, NSW",
+      "link": "https://www.eventbrite.com.au/e/hsc-pdhpe-tickets-1255234723849?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F971616903%2F192008971764%2F1%2Foriginal.20250228-043128?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C17%2C2414%2C1207&s=f7440133339619e05fb78870aad28608"
     },
     {
       "title": "Prime Book Club LIVE",
@@ -30,11 +23,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1069620843%2F2821635492401%2F1%2Foriginal.20250709-053856?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.433712121212&fp-y=0.479553903346&s=3d56e52481702f6b8a545a97e1340e25"
     },
     {
-      "title": "FRI 25 JUL - WAO SUPERCLUB @ IVY",
+      "title": "AI Hack Day - Sydney",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/fri-25-jul-wao-superclub-ivy-tickets-1404624713329?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1048335233%2F713796481473%2F1%2Foriginal.20250608-104035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=1c1dbcbba12fbb2ef16e2b18241ddbd8"
+      "link": "https://www.eventbrite.com.au/e/ai-hack-day-sydney-tickets-1217361263309?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F524370099%2F55525066651%2F1%2Foriginal.20230529-052632?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=86fb5e3fa45a940a0db7bcbcfae491fb"
+    },
+    {
+      "title": "Plaza Basement x Motive Records Takeover",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com/e/plaza-basement-x-motive-records-takeover-tickets-1365257876059?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1035469703%2F2530488701891%2F1%2Foriginal.20250520-235255?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.948863636364&fp-y=0.498220640569&s=0fe49ed7f28cd143d77ebe268852f843"
     },
     {
       "title": "CRAVE feat. PAUL VAN DYK",
@@ -48,7 +48,7 @@
       "date": "Upcoming",
       "location": "Darling Park, NSW",
       "link": "https://www.eventbrite.com.au/e/the-country-superstar-experience-sydney-tickets-1319549019639?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005467703%2F2245701384243%2F1%2Foriginal.20250410-012609?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a35115fefb7e22e8cc7fe811c7ee71e"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005467703%2F2245701384243%2F1%2Foriginal.20250410-012609?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=49e99b27bf97285728458e09c1e0c5f9"
     },
     {
       "title": "Underground Funk",
@@ -58,18 +58,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1046332713%2F275680237230%2F1%2Foriginal.20250605-034115?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a8677784e4a1a1432f9ae026f986b083"
     },
     {
-      "title": "Shark Arm Case",
+      "title": "Sydney Tattoo Convention 2025 \u2013 Australia's Premier Tattoo Expo",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/shark-arm-case-tickets-1380166257429?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1063002963%2F38351824596%2F1%2Foriginal.20250629-234834?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C64%2C1950%2C975&s=658e6a331c7ce20fca6a1381506eaf54"
+      "link": "https://www.eventbrite.com.au/e/sydney-tattoo-convention-2025-australias-premier-tattoo-expo-tickets-1036514722437?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951047303%2F203978083134%2F1%2Foriginal.20250203-055351?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=78454c4e198cd2cfccbb0119dcec724d"
     },
     {
-      "title": "FRI 25 JUL - WAO SUPERCLUB @ IVY",
+      "title": "Homemade Saturdays - 26th July 2025",
       "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/fri-25-jul-wao-superclub-ivy-tickets-1404624713329?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1048335233%2F713796481473%2F1%2Foriginal.20250608-104035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=1c1dbcbba12fbb2ef16e2b18241ddbd8"
+      "location": "Darling Park, NSW",
+      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-26th-july-2025-tickets-1318209894279?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1063143943%2F1225643091603%2F1%2Foriginal.20250630-072956?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C28%2C2400%2C1200&s=894ecfd3287f646cd19c573236240cc5"
     },
     {
       "title": "Soulmate: Hottest Sydney Sunday sesh",
@@ -93,74 +93,60 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078242623%2F54901145563%2F1%2Foriginal.20250721-210902?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6c7a36dea75002f12a62bcb77f550e78"
     },
     {
-      "title": "Sydney Tattoo Convention 2025 \u2013 Australia's Premier Tattoo Expo",
+      "title": "Mid-Year Market Outlook 2025 - July Edition",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-tattoo-convention-2025-australias-premier-tattoo-expo-tickets-1036514722437?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951047303%2F203978083134%2F1%2Foriginal.20250203-055351?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=d29d56466f8e0c7ed231ea575b30f748"
+      "link": "https://www.eventbrite.com.au/e/mid-year-market-outlook-2025-july-edition-tickets-1471737619839?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080973193%2F59184861129%2F1%2Foriginal.20250725-012442?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f50f8177b3843d50356f34a6c6cfc65b"
     },
     {
-      "title": "MORNING GLORY: DAY RAVE",
+      "title": "Tait Micallef Fundraiser",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/morning-glory-day-rave-tickets-1487544859719?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1072790183%2F566220113875%2F1%2Foriginal.20250714-062430?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C17%2C1200%2C600&s=8c3379c4894d14fd0df9f4d36ba67aa9"
+      "link": "https://www.eventbrite.com/e/tait-micallef-fundraiser-tickets-1509188476359?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078572233%2F1792060733563%2F1%2Foriginal.20250722-085113?w=267&auto=format%2Ccompress&q=75&sharp=10&s=8ea97a46fe800b078ddd3b3deca3a46d"
     },
     {
-      "title": "2025 NDARC Annual Research Symposium",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/2025-ndarc-annual-research-symposium-tickets-1289055332199?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F985249353%2F289027057524%2F1%2Foriginal.20250317-031833?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1920%2C960&s=00c02daa3974794e5a0236e254467453"
-    },
-    {
-      "title": "Resilience as a Health & Care Researcher - Part 1: Staying on Track",
+      "title": "Complex Caesarean Section: Prenatal Evaluation and Surgical Approach",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/resilience-as-a-health-care-researcher-part-1-staying-on-track-tickets-1347758745689?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1020138053%2F114411828591%2F1%2Foriginal.20250430-144305?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C336%2C7656%2C3828&s=475fd257b48711340690720869a16c08"
+      "link": "https://www.eventbrite.co.uk/e/complex-caesarean-section-prenatal-evaluation-and-surgical-approach-tickets-1460710838439?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1065943573%2F22766425176%2F1%2Foriginal.20250703-125822?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e8a4924815b4cf47b0c725b11b62d88f"
     },
     {
-      "title": "MRI Safety In Practise: Emergency Preparedness & Future Directions",
+      "title": "Elevate Meshless: A Live Training Event",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/mri-safety-in-practise-emergency-preparedness-future-directions-tickets-1468719482509?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1067814763%2F183628721792%2F1%2Foriginal.20250707-075334?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7a9b7f197f9d63c90858fdab4427528b"
+      "link": "https://www.eventbrite.com/e/elevate-meshless-a-live-training-event-tickets-1465750973619?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1066863963%2F230791267713%2F1%2Foriginal.20250704-191117?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2f5914ba033f71bb083a81c348961c7a"
     },
     {
-      "title": "Legal session: Effective ER processes and investigations",
+      "title": "Fresno Career Fair",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/legal-session-effective-er-processes-and-investigations-tickets-1391275976899?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1043211443%2F275314942945%2F1%2Foriginal.20250601-093037?w=400&auto=format%2Ccompress&q=75&sharp=10&s=45fa57e82ff29764d8b632e893c80d79"
+      "link": "https://www.eventbrite.com/e/fresno-career-fair-tickets-779023920517?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F659863849%2F183327965130%2F1%2Foriginal.20231217-195703?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=100%2C0%2C1200%2C600&s=132bd069adea4b05baa475280039f1ed"
     },
     {
-      "title": "Grow With Purpose | Leadership Conversations for individual contributors",
+      "title": "Liveable Streets: Rethinking Urban Space with the Woonerf Concept",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com.au/e/grow-with-purpose-leadership-conversations-for-individual-contributors-tickets-1397429983699?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F534732849%2F435377797366%2F1%2Foriginal.20230613-065110?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7caad42f412a2e6e8dc2ec81de7d8ae9"
+      "link": "https://www.eventbrite.de/e/liveable-streets-rethinking-urban-space-with-the-woonerf-concept-tickets-1476904945449?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1069750273%2F1544367251803%2F1%2Foriginal.20250709-110334?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0770201827541&fp-y=0.202657756615&s=e7e8bbb5b20a75bbb82b321b63baac59"
     },
     {
-      "title": "Fetal Brain Anomalies \u2013 From Screening to Clinical Decision-Making",
+      "title": "Washington DC Career Fair",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/fetal-brain-anomalies-from-screening-to-clinical-decision-making-tickets-1471159811599?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078683113%2F22766425176%2F1%2Foriginal.20250722-121820?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=fa13f6c6df93274473bb7f9b29a94410"
+      "link": "https://www.eventbrite.com/e/washington-dc-career-fair-tickets-775204777357?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F656322669%2F316131771624%2F1%2Foriginal.20231210-193525?w=300&auto=format%2Ccompress&q=75&sharp=10&s=5214ef169b7b4b7802c68100b5fcd02f"
     },
     {
-      "title": "How to Double Your Billings Without Compromising on Patient Care | Free",
+      "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com.au/e/how-to-double-your-billings-without-compromising-on-patient-care-free-tickets-1333525343199?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1024952893%2F1117182917993%2F1%2Foriginal.20250507-012457?crop=focalpoint&fit=crop&w=266&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c71099624f0a9e5d06081da1f43284a8"
-    },
-    {
-      "title": "Research Learning Lectures",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/research-learning-lectures-tickets-472469798887?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F632630769%2F583901517333%2F1%2Foriginal.20231101-092848?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b8a4076b261d5129f8d2cca024ea3661"
+      "link": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
       "title": "Update on the Economy Webinar Series",
@@ -170,25 +156,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F667412879%2F195754839567%2F1%2Foriginal.20240104-130722?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d90f4fbf907bf04d421471ef97b6c8aa"
     },
     {
-      "title": "Poderi Aldo Conterno Barolo Dinner With Giacomo Conterno",
+      "title": "No Cost On-Line Coursera Certification Courses For Military and Spouse",
       "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/poderi-aldo-conterno-barolo-dinner-with-giacomo-conterno-tickets-1445482991539?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1063116543%2F108956178509%2F1%2Foriginal.20250630-054951?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C12%2C650%2C325&s=47e6528ca58f30cc9020852d3dbdfb9d"
-    },
-    {
-      "title": "Andrew Olle Media Lecture 2025",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/andrew-olle-media-lecture-2025-tickets-1253842940989?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1030439733%2F2281628364923%2F1%2Foriginal.20250514-064725?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5d270f1e3095d1550b8c22de51e773e2"
-    },
-    {
-      "title": "Bedroom Sessions",
-      "date": "Upcoming",
-      "location": "Newtown, NSW",
-      "link": "https://www.eventbrite.com.au/e/bedroom-sessions-tickets-1392096781949?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049684033%2F550412437331%2F1%2Foriginal.20250610-102924?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.684659090909&fp-y=0.491694352159&s=a42538d5f625ef554d8536ac990dbb1d"
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/no-cost-on-line-coursera-certification-courses-for-military-and-spouse-tickets-165655358637?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F631748609%2F122310519079%2F1%2Foriginal.20231031-040429?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9b7a42e3580929f655116c091d698c90"
     },
     {
       "title": "The Glow Getaway",
@@ -205,6 +177,13 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1063041903%2F1755117891283%2F1%2Foriginal.20250630-014526?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5a7787be63d0b62cfb2351935d08ade9"
     },
     {
+      "title": "T2 QVB Breakfast Club",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/t2-qvb-breakfast-club-tickets-1489670136479?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1077594003%2F1844447773723%2F1%2Foriginal.20250721-035948?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=dbe9200cbe6d02755a88ce35cf0cd4e8"
+    },
+    {
       "title": "Benchmark Wines of Australia Long Lunch | Sydney",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -217,6 +196,20 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com/e/plaza-basement-x-motive-records-takeover-tickets-1365257876059?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1035469703%2F2530488701891%2F1%2Foriginal.20250520-235255?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.948863636364&fp-y=0.498220640569&s=0fe49ed7f28cd143d77ebe268852f843"
+    },
+    {
+      "title": "Altered States Experience | DEE WHY | Morning Session",
+      "date": "Upcoming",
+      "location": "Dee Why, NSW",
+      "link": "https://www.eventbrite.com.au/e/altered-states-experience-dee-why-morning-session-tickets-1435965113309?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1060912583%2F1346524549793%2F1%2Foriginal.20250626-045209?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-21&fp-y=5e-21&s=5ec35ce421ce2cfb4933cecc8cbce030"
+    },
+    {
+      "title": "Creators Collective | 27th July 2025",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com/e/creators-collective-27th-july-2025-tickets-1510522526539?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078572573%2F2083357043433%2F1%2Foriginal.20250722-085159?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0416666666667&fp-y=0.498134328358&s=5eb9b45f6eb4ea571e065e6cda5c451a"
     },
     {
       "title": "Family Sunday: Escape from the cold",
