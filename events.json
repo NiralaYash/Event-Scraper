@@ -1,13 +1,6 @@
 {
-  "last_updated": "2025-08-17T01:49:48.159225Z",
+  "last_updated": "2025-08-17T18:28:11.261557Z",
   "events": [
-    {
-      "title": "Song Starter:   First Songs for Beginner Guitarists",
-      "date": "Upcoming",
-      "location": "Dulwich Hill, NSW",
-      "link": "https://www.eventbrite.com.au/e/song-starter-first-songs-for-beginner-guitarists-tickets-1380133539569?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F970621953%2F277081445506%2F1%2Foriginal.20250227-024825?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C95%2C1974%2C987&s=44f0f35708963c9675b181eae8f741a4"
-    },
     {
       "title": "More your speed: New Balance X Pace Athletic",
       "date": "Upcoming",
@@ -28,6 +21,13 @@
       "location": "Kensington, NSW",
       "link": "https://www.eventbrite.com.au/e/karen-hao-empire-of-ai-registration-1440027905229?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1068685153%2F243879337343%2F1%2Foriginal.20250708-052030?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4320%2C2160&s=52fdece81c647745a30be6ea287f968a"
+    },
+    {
+      "title": "BokFest Sydney- Boks vs All Blacks",
+      "date": "Upcoming",
+      "location": "North Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/bokfest-sydney-boks-vs-all-blacks-tickets-1541379229769?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083485133%2F273747429626%2F1%2Foriginal.20250729-115559?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C2048%2C1024&s=720beda38477843a9a542dc3e00a0ec9"
     },
     {
       "title": "The Country Superstar Experience - Sydney",
@@ -58,18 +58,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1056436333%2F363534760949%2F1%2Foriginal.20250619-100049?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bc2a3ce439f5e968eb9219bce8af7744"
     },
     {
-      "title": "Business Exit Summit Sydney 2025: The Playbook to Maximise Your Exit Value",
+      "title": "Introduction To Cold Approach - Sydney Masterclass Event",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/business-exit-summit-sydney-2025-the-playbook-to-maximise-your-exit-value-tickets-1292089708099?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1070514783%2F54901145563%2F1%2Foriginal.20250710-061056?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=429e7abeb28663a182e0057db81ce431"
+      "link": "https://www.eventbrite.com.au/e/introduction-to-cold-approach-sydney-masterclass-event-tickets-1376799035979?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1071145003%2F2764693912081%2F1%2Foriginal.20250710-213641?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=55396dd27ab2631a67a3926bd6d015ed"
     },
     {
-      "title": "Sydney Tattoo Convention 2025 \u2013 Australia's Premier Tattoo Expo",
+      "title": "Still Turning Heads at 250: Jane Austen\u2019s Enduring Charm",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-tattoo-convention-2025-australias-premier-tattoo-expo-tickets-1036514722437?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F951047303%2F203978083134%2F1%2Foriginal.20250203-055351?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=d29d56466f8e0c7ed231ea575b30f748"
+      "link": "https://www.eventbrite.com/e/still-turning-heads-at-250-jane-austens-enduring-charm-tickets-1520613829899?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080167663%2F2843719435411%2F1%2Foriginal.20250724-012517?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C387%2C1280%2C640&s=a03ef16ad703b7ee0927542fdc7c6536"
     },
     {
       "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
@@ -93,18 +93,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1076173013%2F244774674134%2F1%2Foriginal.20250718-025247?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4eb55b3df445f2ba8382ead1953e59da"
     },
     {
-      "title": "Speed Networking Commercial Lenders & Brokers Sydney",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/speed-networking-commercial-lenders-brokers-sydney-tickets-1057820693169?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F689889089%2F1767281806803%2F1%2Foriginal.20240205-061023?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C33%2C1024%2C512&s=f752833936ed8f644b95772c70954597"
-    },
-    {
       "title": "NSW Training Awards",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/nsw-training-awards-tickets-1534213777709?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F998315453%2F2248881097513%2F1%2Foriginal.20250401-213113?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00496212121212&fp-y=0.00335674157303&s=8ca044afe402bc4c706fbc285a8a9f46"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F998315453%2F2248881097513%2F1%2Foriginal.20250401-213113?crop=focalpoint&fit=crop&w=357&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00496212121212&fp-y=0.00335674157303&s=0b1e4b277257c5a3e8e290aa3b110f12"
     },
     {
       "title": "TALUM AUSTRALIA: Cafe Del Mar - Season 02 Launch Party",
@@ -114,25 +107,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078812893%2F1469010098563%2F1%2Foriginal.20250722-150237?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C4%2C2048%2C1024&s=883a4759c278c1f863db25e11d971f1e"
     },
     {
-      "title": "French Cooking Delights: Mastering the Art of French Cuisine",
+      "title": "#BeerOps SYDNEY EOY2025 - Australia's Largest Tech Networking Event!",
       "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/french-cooking-delights-mastering-the-art-of-french-cuisine-tickets-944003127767?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F804148319%2F2109818314743%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=580b2e0325135f6eec52dde1cb938744"
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/beerops-sydney-eoy2025-australias-largest-tech-networking-event-tickets-1512524073219?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1090949553%2F152473765076%2F1%2Foriginal.20250807-232246?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2630%2C1315&s=669c9c4200252aa554219c80381c37d3"
     },
     {
-      "title": "Boulder Career Fair",
+      "title": "Atlanta Career Fair",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/boulder-career-fair-tickets-909385264807?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F771472289%2F316131771624%2F1%2Foriginal.20240519-200846?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C37%2C1200%2C600&s=56d63ecd08beedd4026b8dc074194dee"
+      "link": "https://www.eventbrite.com/e/atlanta-career-fair-tickets-300752598117?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F749945929%2F183327965130%2F1%2Foriginal.20240423-020530?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C133%2C1600%2C800&s=9ae1e0d3428da8fb1fa2dcfae6ac7db7"
     },
     {
-      "title": "Become A Teacher in NYC: CUNY Edition",
+      "title": "Library 2.025 - The Innovative Library: Creativity, Change, and Impact",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/become-a-teacher-in-nyc-cuny-edition-tickets-1538613166399?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082927343%2F229510170369%2F1%2Foriginal.20250728-184709?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.535984848485&fp-y=0.46949602122&s=1386cd58b9f8afa65098e25c0678715d"
+      "link": "https://www.eventbrite.com/e/library-2025-the-innovative-library-creativity-change-and-impact-registration-1323756073049?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080632033%2F132353824516%2F1%2Foriginal.20250724-165150?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=452859314adabef58f20eb6ee8328990"
+    },
+    {
+      "title": "Back-to-School Safety Preparedness: Training and Drills for K-12 Schools",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/back-to-school-safety-preparedness-training-and-drills-for-k-12-schools-registration-1519695242379?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1086486633%2F439548013962%2F1%2Foriginal.20250801-200017?w=450&auto=format%2Ccompress&q=75&sharp=10&s=3109e00fdad5509ec5590ddbb8f0c156"
     },
     {
       "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
@@ -142,11 +142,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
-      "title": "The Psychology of People-Pleasing [Free Webinar]",
+      "title": "Research Learning Lectures",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/the-psychology-of-people-pleasing-free-webinar-tickets-1526858979309?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1080497133%2F231441994134%2F1%2Foriginal.20250724-141951?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=767b4b89704cef95181ae74f45df8b08"
+      "link": "https://www.eventbrite.com/e/research-learning-lectures-tickets-472469798887?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F632630769%2F583901517333%2F1%2Foriginal.20231101-092848?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b8a4076b261d5129f8d2cca024ea3661"
     },
     {
       "title": "Single  and Intentional (Ages 25+ preferred) **Sept 20th,  Virtual Event**",
@@ -156,11 +156,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F708001649%2F1999088473903%2F1%2Foriginal.20240229-050947?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1148%2C2912%2C1456&s=583581000d4b553b8354c355bdb7f322"
     },
     {
-      "title": "San Jose Career Fair",
+      "title": "Update on the Economy Webinar Series",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/san-jose-career-fair-tickets-779022676797?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F659862079%2F183327965130%2F1%2Foriginal.20231217-195021?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=5cacbaad220502c2963bb4b783b03315"
+      "link": "https://www.eventbrite.co.uk/e/update-on-the-economy-webinar-series-tickets-634030792167?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F667412879%2F195754839567%2F1%2Foriginal.20240104-130722?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d90f4fbf907bf04d421471ef97b6c8aa"
     },
     {
       "title": "No Cost On-Line Coursera Certification Courses For Military and Spouse",
@@ -170,53 +170,60 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F631748609%2F122310519079%2F1%2Foriginal.20231031-040429?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9b7a42e3580929f655116c091d698c90"
     },
     {
-      "title": "Special Event -Keiko Ogura in Conversation",
+      "title": "The Country Superstar Experience - Sydney",
       "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/special-event-keiko-ogura-in-conversation-tickets-1295420219749?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1026819273%2F679473379903%2F1%2Foriginal.20250508-233306?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4529ee7ce2a27ce9363938ad2a4c8a34"
+      "location": "Darling Park, NSW",
+      "link": "https://www.eventbrite.com.au/e/the-country-superstar-experience-sydney-tickets-1319549019639?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1005467703%2F2245701384243%2F1%2Foriginal.20250410-012609?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2a35115fefb7e22e8cc7fe811c7ee71e"
     },
     {
-      "title": "Sydney Dating Masterclass | Get 3 Dates a Week by Mastering Cold Approach",
+      "title": "Ciclo de Cine Peruano: Yana-Wara",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-dating-masterclass-get-3-dates-a-week-by-mastering-cold-approach-tickets-1511040826789?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1092185773%2F323119814893%2F1%2Foriginal.20250810-055857?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C23%2C1216%2C608&s=283a1516bd3a93207a8a62213ac82cee"
+      "link": "https://www.eventbrite.com.au/e/ciclo-de-cine-peruano-yana-wara-tickets-1408128132149?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1050512933%2F38267373548%2F1%2Foriginal.20250611-063041?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=91%2C0%2C896%2C448&s=75914cdf7322af40edbd23ff9c1587b3"
     },
     {
-      "title": "V Aegio International Piano Competition Global Final",
+      "title": "MBS Education for General Practice Workshop 2 Day Event - Sydney  2025",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/v-aegio-international-piano-competition-global-final-tickets-1566877606099?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1090406173%2F1642095252423%2F1%2Foriginal.20250807-125518?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=48bdf3396bced40037c73bc689d92f32"
+      "link": "https://www.eventbrite.com.au/e/mbs-education-for-general-practice-workshop-2-day-event-sydney-2025-tickets-1090350039319?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F905677533%2F198338905288%2F1%2Foriginal.20241125-012110?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0644038229278&fp-y=0.514525558775&s=9836f7f5b379e070c381a07bffe301b5"
     },
     {
-      "title": "Sydney Speed Dating Ages 27-42 | Singles Events | Speed Sydney",
+      "title": "\u9e21\u7fc5\u5355\u53e3\u559c\u5267\u7ca4\u8bed\u4e13\u573a - \u3010\u7ed9\u4e2a\u9e21\u4f1a \u3011\u6089\u5c3c\u7ad9",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/sydney-speed-dating-ages-27-42-singles-events-speed-sydney-tickets-1451206691279?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049388353%2F2799276306081%2F1%2Foriginal.20250609-230616?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00906666668979&fp-y=0.00625518697777&s=186cf87fb9a3a8fc1750ee73cce47538"
+      "link": "https://www.eventbrite.com.au/e/1490110022189?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1073938083%2F2490370607351%2F1%2Foriginal.20250715-143932?w=400&auto=format%2Ccompress&q=75&sharp=10&s=768dd71a3e36096f48a256705c4af28c"
     },
     {
-      "title": "Sydney Speed Dating Ages 27-42 | Singles Events | Fancy a Go?",
+      "title": "Author Talk: Survival in Singapore - Tom Trumble",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/sydney-speed-dating-ages-27-42-singles-events-fancy-a-go-tickets-1455078331459?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049495093%2F743519355293%2F1%2Foriginal.20250610-022142?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=5e-05&fp-y=5e-05&s=e316ce846a44a5571eabe31935cd5bd0"
+      "link": "https://www.eventbrite.com.au/e/author-talk-survival-in-singapore-tom-trumble-tickets-1466092495119?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1067015263%2F679473379903%2F1%2Foriginal.20250705-053636?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=207%2C368%2C1348%2C674&s=ea623e722d6ec551d2c6afe8749e5fb5"
     },
     {
-      "title": "Ocean Health Lab Tour (15min.)",
+      "title": "Big Night Out Pub Crawl | TRAFFIC LIGHT PARTY | Saturday 23 August | Sydney",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/ocean-health-lab-tour-15min-tickets-1344928550499?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1019763033%2F2746151326251%2F1%2Foriginal.20250430-023321?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C605%2C5138%2C2569&s=719ad7848846a1a18ee8e49b531b0282"
+      "link": "https://www.eventbrite.com/e/big-night-out-pub-crawl-traffic-light-party-saturday-23-august-sydney-tickets-1500351805639?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1075627603%2F154153969751%2F1%2Foriginal.20250717-134502?crop=focalpoint&fit=crop&w=450&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.496212121212&fp-y=0.363787375415&s=aac4bbbed2492d25d654560c24c09b99"
     },
     {
-      "title": "Let's Meditate Sydney:  Free On-line Guided -Energy Awakening & Meditation",
+      "title": "Come Fish with Us - DPIRD Try Fishing Session - Mort Bay Park",
+      "date": "Upcoming",
+      "location": "Birchgrove, NSW",
+      "link": "https://www.eventbrite.com/e/come-fish-with-us-dpird-try-fishing-session-mort-bay-park-tickets-1383200763719?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1040212903%2F1856924090853%2F1%2Foriginal.20250528-000606?w=357&auto=format%2Ccompress&q=75&sharp=10&s=4bb5b177f4cf5d65f3ebbaa067a33f6a"
+    },
+    {
+      "title": "Wisdom & Empowerment 2025 Buddhist Dharma Talk and Blessing Ceremony",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/lets-meditate-sydney-free-on-line-guided-energy-awakening-meditation-tickets-1444594303449?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1062791423%2F2733633168271%2F1%2Foriginal.20250629-122849?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.489680363582&fp-y=0.0419723080917&s=305ed0d7bd0432117a60c02b58c4f2ec"
+      "link": "https://www.eventbrite.com.au/e/wisdom-empowerment-2025-buddhist-dharma-talk-and-blessing-ceremony-tickets-1477837895929?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1069830113%2F165292451129%2F1%2Foriginal.20250709-132324?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bef89b6defcf2664f9374fbd1853e557"
     }
   ]
 }
