@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-09-05T01:24:54.429253Z",
+  "last_updated": "2025-09-06T06:25:15.947694Z",
   "events": [
     {
       "title": "BokFest Sydney- Boks vs All Blacks",
@@ -9,18 +9,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083485133%2F273747429626%2F1%2Foriginal.20250729-115559?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C30%2C2048%2C1024&s=720beda38477843a9a542dc3e00a0ec9"
     },
     {
-      "title": "NSW Training Awards",
+      "title": "Livewire LIVE 2025",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/nsw-training-awards-tickets-1534213777709?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F998315453%2F2248881097513%2F1%2Foriginal.20250401-213113?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00496212121212&fp-y=0.00335674157303&s=858c0d9b9eabe425cc7d1bf32afd28fb"
-    },
-    {
-      "title": "Doctor For A Day With MedView",
-      "date": "Upcoming",
-      "location": "Kensington, NSW",
-      "link": "https://www.eventbrite.com.au/e/doctor-for-a-day-with-medview-tickets-1588766867469?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1095523823%2F543198236967%2F1%2Foriginal.20250814-062755?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d7cf6ce41d63e0023edb21b567b064b1"
+      "link": "https://www.eventbrite.com.au/e/livewire-live-2025-tickets-1329249905249?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1063008723%2F144077695134%2F1%2Foriginal.20250630-000805?w=400&auto=format%2Ccompress&q=75&sharp=10&s=8faa6d4efe09ea908aa5fae235b75a6d"
     },
     {
       "title": "TALUM AUSTRALIA: Cafe Del Mar - Season 02 Launch Party",
@@ -30,18 +23,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1078812893%2F1469010098563%2F1%2Foriginal.20250722-150237?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C4%2C2048%2C1024&s=883a4759c278c1f863db25e11d971f1e"
     },
     {
-      "title": "FRI 5 SEP - SHOWTEK @ WAO SUPERCLUB",
+      "title": "DJ Snoopadelic (AKA Snoop Dogg)",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/fri-5-sep-showtek-wao-superclub-tickets-1559335256729?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1105989163%2F713796481473%2F1%2Foriginal.20250826-225809?w=400&auto=format%2Ccompress&q=75&sharp=10&s=59fd0f314aef3aad9d3d0d2d49bfbbc1"
+      "link": "https://www.eventbrite.com.au/e/dj-snoopadelic-aka-snoop-dogg-tickets-1633177520929?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1106260773%2F383685795655%2F1%2Foriginal.20250827-074107?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494208494208&fp-y=0.505084745763&s=5dcd9ad4058cce7a9f84705ebda255d5"
+    },
+    {
+      "title": "TREBOL CLAN Y DJ JOE AUSTRALIAN TOUR 2025 (SYDNEY)",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/trebol-clan-y-dj-joe-australian-tour-2025-sydney-tickets-1411392616309?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1052275403%2F481712599357%2F1%2Foriginal.20250613-033946?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d03ffec83dbe4a6034e9191ab4a0a8a0"
     },
     {
       "title": "BERLIN RAVE (Sydney) ft CLARA CUVE (Germany)",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/berlin-rave-sydney-ft-clara-cuve-germany-tickets-1370590796969?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1114235523%2F347014776913%2F1%2Foriginal.20250904-143459?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C65%2C1920%2C960&s=c0393dc580d5ec7d835e8838d3bcfd0e"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1114235523%2F347014776913%2F1%2Foriginal.20250904-143459?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C65%2C1920%2C960&s=8ea8cb2dac9f9204f62d845d4ae58496"
+    },
+    {
+      "title": "Yokee Playboy LIVE in Sydney",
+      "date": "Upcoming",
+      "location": "Darling Park, NSW",
+      "link": "https://www.eventbrite.com.au/e/yokee-playboy-live-in-sydney-tickets-1627041176959?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1104137443%2F245967499872%2F1%2Foriginal.20250825-054712?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e899711c257060abf779b9291f5a36f7"
     },
     {
       "title": "SUNDAYLICIOUS SYDNEY |  SAT NIGHT | SEP 13 | 9pm - 3am | LGBTQIA+ event",
@@ -51,53 +58,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1056436333%2F363534760949%2F1%2Foriginal.20250619-100049?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bc2a3ce439f5e968eb9219bce8af7744"
     },
     {
-      "title": "240km/h F2F Sydney",
+      "title": "NSW Training Awards",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/240kmh-f2f-sydney-tickets-1498316959359?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1079451643%2F564171898029%2F1%2Foriginal.20250723-075855?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=445b6b5883d8f0c152fb4d4a71b669c9"
-    },
-    {
-      "title": "[Rare] KARAOKE BOAT PARTY! ~ Afterparty included",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/rare-karaoke-boat-party-afterparty-included-tickets-1636028458159?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1106608233%2F2878778694261%2F1%2Foriginal.20250827-152121?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C20%2C1920%2C960&s=e7d32067d0e7cd87e6006e56876da1e8"
-    },
-    {
-      "title": "FRI 5 SEP - SHOWTEK @ WAO SUPERCLUB",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/fri-5-sep-showtek-wao-superclub-tickets-1559335256729?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1105989163%2F713796481473%2F1%2Foriginal.20250826-225809?w=400&auto=format%2Ccompress&q=75&sharp=10&s=59fd0f314aef3aad9d3d0d2d49bfbbc1"
-    },
-    {
-      "title": "SYDNEY KPOP PARTY | KPOP SYDNEY HUNTERS  | FRI 5 SEP",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-kpop-party-kpop-sydney-hunters-fri-5-sep-tickets-1598574743089?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1097791193%2F286048723107%2F1%2Foriginal.20250817-134707?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3160%2C1580&s=41ea2271ede7b1a2846551c31062e975"
-    },
-    {
-      "title": "Yokee Playboy LIVE in Sydney",
-      "date": "Upcoming",
-      "location": "Darling Park, NSW",
-      "link": "https://www.eventbrite.com.au/e/yokee-playboy-live-in-sydney-tickets-1627041176959?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1104137443%2F245967499872%2F1%2Foriginal.20250825-054712?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9b5752ff4fc02f278d95129e6e627918"
+      "link": "https://www.eventbrite.com.au/e/nsw-training-awards-tickets-1534213777709?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F998315453%2F2248881097513%2F1%2Foriginal.20250401-213113?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.00496212121212&fp-y=0.00335674157303&s=8ca044afe402bc4c706fbc285a8a9f46"
     },
     {
       "title": "BERLIN RAVE (Sydney) ft CLARA CUVE (Germany)",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/berlin-rave-sydney-ft-clara-cuve-germany-tickets-1370590796969?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1114235523%2F347014776913%2F1%2Foriginal.20250904-143459?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C65%2C1920%2C960&s=c0393dc580d5ec7d835e8838d3bcfd0e"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1114235523%2F347014776913%2F1%2Foriginal.20250904-143459?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C65%2C1920%2C960&s=8ea8cb2dac9f9204f62d845d4ae58496"
+    },
+    {
+      "title": "SECOND LIFE ARCHIVE: Sydney Sept 14th",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/second-life-archive-sydney-sept-14th-tickets-1582224418829?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1110429313%2F1632322136163%2F1%2Foriginal.20250901-101340?h=200&w=200&auto=format%2Ccompress&q=75&sharp=10&s=cadd86e87ac25e0f45d3fd919f9640f7"
     },
     {
       "title": "Engineering the Future: The Venture Catalyst",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/engineering-the-future-the-venture-catalyst-registration-1579339750709?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1099195263%2F243760117606%2F1%2Foriginal.20250819-025047?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C13%2C1200%2C600&s=9d2e591a9d015943fda5b4fa39480098"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1099195263%2F243760117606%2F1%2Foriginal.20250819-025047?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C13%2C1200%2C600&s=b0135c83044f158dd3804e200ecc847a"
     },
     {
       "title": "DJ Snoopadelic (AKA Snoop Dogg)",
@@ -114,88 +100,81 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1107158783%2F243879337343%2F1%2Foriginal.20250827-235043?w=401&auto=format%2Ccompress&q=75&sharp=10&s=7df030e7ccbb27c9ae13997f63894c46"
     },
     {
-      "title": "FREE Quran Study Course: Journey Through Jannah",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/free-quran-study-course-journey-through-jannah-tickets-1549177053269?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1087794873%2F242175896143%2F1%2Foriginal.20250804-154330?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=dd9a7e5ef5c17fbc8ba49d98b37b7ed9"
-    },
-    {
-      "title": "Surgical Management of Uterine Dehiscence: Techniques & Clinical Cases",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/surgical-management-of-uterine-dehiscence-techniques-clinical-cases-tickets-1564436825659?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1090394823%2F22766425176%2F1%2Foriginal.20250807-123725?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e40eb102d2f230f8c908b1ec2475e215"
-    },
-    {
-      "title": "Single  and Intentional (Ages 25+ preferred) **Sept 20th,  Virtual Event**",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/single-and-intentional-ages-25-preferred-sept-20th-virtual-event-tickets-1045297481907?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F708001649%2F1999088473903%2F1%2Foriginal.20240229-050947?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1148%2C2912%2C1456&s=583581000d4b553b8354c355bdb7f322"
-    },
-    {
-      "title": "Amplified 2025",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/amplified-2025-tickets-1482812615449?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1073733943%2F1128558171253%2F1%2Foriginal.20250715-085118?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=dfc8f9c2e2f17888fe3442bda472b1d1"
-    },
-    {
-      "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
-    },
-    {
-      "title": "San Jose Career Fair",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/san-jose-career-fair-tickets-779022676797?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F659862079%2F183327965130%2F1%2Foriginal.20231217-195021?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=5cacbaad220502c2963bb4b783b03315"
-    },
-    {
-      "title": "No Cost On-Line Coursera Certification Courses For Military and Spouse",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/no-cost-on-line-coursera-certification-courses-for-military-and-spouse-tickets-165655358637?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F631748609%2F122310519079%2F1%2Foriginal.20231031-040429?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9b7a42e3580929f655116c091d698c90"
-    },
-    {
-      "title": "Research Learning Lectures",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/research-learning-lectures-tickets-472469798887?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F632630769%2F583901517333%2F1%2Foriginal.20231101-092848?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b8a4076b261d5129f8d2cca024ea3661"
-    },
-    {
-      "title": "AFRODISIA | CAFE DEL MAR SYDNEY",
+      "title": "#BeerOps SYDNEY EOY2025 - Australia's Largest Tech Networking Event!",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/afrodisia-cafe-del-mar-sydney-tickets-1478991165389?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1070395613%2F308143788432%2F1%2Foriginal.20250710-005953?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C5940%2C2970&s=c08c155ee3e5c9e5f85b77fdbe8bc422"
+      "link": "https://www.eventbrite.com.au/e/beerops-sydney-eoy2025-australias-largest-tech-networking-event-tickets-1512524073219?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1090949553%2F152473765076%2F1%2Foriginal.20250807-232246?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2630%2C1315&s=669c9c4200252aa554219c80381c37d3"
     },
     {
-      "title": "LUX VIP SYD : Middle Eastern Indulgence at Babylon",
+      "title": "POOF DOOF X RODD RICHARDS PRESENTS: DOROTHY",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/lux-vip-syd-middle-eastern-indulgence-at-babylon-tickets-1579564372559?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1093495003%2F315543932353%2F1%2Foriginal.20250812-032928?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C92%2C3452%2C1726&s=6dc209d593a1d26aebc443ed67f5cc78"
+      "link": "https://www.eventbrite.com.au/e/poof-doof-x-rodd-richards-presents-dorothy-tickets-1637660991109?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1107372253%2F301071753307%2F1%2Foriginal.20250828-070102?crop=focalpoint&fit=crop&h=200&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f1aa237def848e4265010c2e2ff78103"
     },
     {
-      "title": "Mechanics' Cinema: Ararat",
+      "title": "Gypsy, Roma and Traveller Vaccination Resources Launch",
       "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/mechanics-cinema-ararat-tickets-1432343621329?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1059965453%2F103846741069%2F1%2Foriginal.20250625-003728?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3780%2C1890&s=0c0743bd1080b5c1837489d0ed3afdfb"
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/gypsy-roma-and-traveller-vaccination-resources-launch-tickets-1551032663449?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1086057933%2F261988556695%2F1%2Foriginal.20250801-090602?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a69db82eff892e070e1eb6700174614d"
     },
     {
-      "title": "SYDNEY KPOP PARTY | KPOP SYDNEY HUNTERS | FRI 5 SEP",
+      "title": "Strategic positioning: The art of getting noticed by the people who matter",
       "date": "Upcoming",
-      "location": "Darling Park, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-kpop-party-kpop-sydney-hunters-fri-5-sep-tickets-1603770533839?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1099246573%2F2245701384243%2F1%2Foriginal.20250819-042610?w=400&auto=format%2Ccompress&q=75&sharp=10&s=ab4716670afa0ee96eb5be58037c69eb"
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/strategic-positioning-the-art-of-getting-noticed-by-the-people-who-matter-tickets-1474023065669?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1069685723%2F290673879142%2F1%2Foriginal.20250709-084747?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C40%2C1280%2C640&s=da7057af6f9b8906ca60cd3b97ef0fea"
+    },
+    {
+      "title": "Georgia O\u2019Keeffe: The New Mexico Years  - Art History Livestream, Part 3",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/georgia-okeeffe-the-new-mexico-years-art-history-livestream-part-3-tickets-1452728402759?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1064186623%2F37309396322%2F1%2Foriginal.20250701-131711?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=30ef2ac9304835a96503f332ebc344db"
+    },
+    {
+      "title": "Applying AI in psychological services: a changing landscape",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/applying-ai-in-psychological-services-a-changing-landscape-tickets-1480086601869?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1070592153%2F537465373883%2F1%2Foriginal.20250710-094307?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C63%2C1600%2C800&s=9e7139edd54dda415078b4243751f76a"
+    },
+    {
+      "title": "NHS Pension Scheme - Partial retirement explained - All Schemes",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/nhs-pension-scheme-partial-retirement-explained-all-schemes-tickets-1448910372929?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1064035153%2F222928553307%2F1%2Foriginal.20221130-122537?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=444a43f0be1a2ce43be9a593a5e91729"
+    },
+    {
+      "title": "#LookCloser: Building positive relationships with children and young people",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/lookcloser-building-positive-relationships-with-children-and-young-people-tickets-1237338265059?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F954275143%2F509498343529%2F1%2Foriginal.20250206-132518?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=367f68c2a10f80a7f5e504963f5e3859"
+    },
+    {
+      "title": "Suicide thoughts and behaviour in later life",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/suicide-thoughts-and-behaviour-in-later-life-tickets-1587133050679?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1094772183%2F1535898784603%2F1%2Foriginal.20250813-143323?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d5b42a8d0a2b4e257d554e36cd75dc79"
+    },
+    {
+      "title": "Update on the Economy Webinar Series",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/update-on-the-economy-webinar-series-tickets-634030792167?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F667412879%2F195754839567%2F1%2Foriginal.20240104-130722?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d90f4fbf907bf04d421471ef97b6c8aa"
+    },
+    {
+      "title": "Urban Cocktail Trail I Potts Point (NSW)",
+      "date": "Upcoming",
+      "location": "Potts Point, NSW",
+      "link": "https://www.eventbrite.com/e/urban-cocktail-trail-i-potts-point-nsw-tickets-1514451929489?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082390703%2F1431956586983%2F1%2Foriginal.20250728-031152?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C1920%2C960&s=c7c19b71b4cb0ce6260728d4a460e52d"
     },
     {
       "title": "TREBOL CLAN Y DJ JOE AUSTRALIAN TOUR 2025 (SYDNEY)",
@@ -205,11 +184,25 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1052275403%2F481712599357%2F1%2Foriginal.20250613-033946?w=400&auto=format%2Ccompress&q=75&sharp=10&s=d03ffec83dbe4a6034e9191ab4a0a8a0"
     },
     {
-      "title": "Urban Cocktail Trail I Potts Point (NSW)",
+      "title": "La panaderia- Latino bakery opening",
       "date": "Upcoming",
-      "location": "Potts Point, NSW",
-      "link": "https://www.eventbrite.com/e/urban-cocktail-trail-i-potts-point-nsw-tickets-1514451929489?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082390703%2F1431956586983%2F1%2Foriginal.20250728-031152?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C1920%2C960&s=d55576cd0c2939de70f0c165ed861188"
+      "location": "Newtown, NSW",
+      "link": "https://www.eventbrite.com/e/la-panaderia-latino-bakery-opening-tickets-1605008978059?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1099387283%2F611805044253%2F1%2Foriginal.20250819-101031?w=200&auto=format%2Ccompress&q=75&sharp=10&s=52e7c74d8b3301dddd262a5767b3848b"
+    },
+    {
+      "title": "Big Night Out Pub Crawl | HAWAIIAN LUAU | Saturday 6 September | Sydney",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com/e/big-night-out-pub-crawl-hawaiian-luau-saturday-6-september-sydney-tickets-1590289612039?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F823116299%2F154153969751%2F1%2Foriginal.20240808-133139?h=200&w=355&auto=format%2Ccompress&q=75&sharp=10&s=53615ac83bfd081cea3ff22b64930519"
+    },
+    {
+      "title": "House CLTR Presents: Miguel Campbell - Terrace Afterparty",
+      "date": "Upcoming",
+      "location": "Darling Park, NSW",
+      "link": "https://www.eventbrite.com.au/e/house-cltr-presents-miguel-campbell-terrace-afterparty-tickets-1613158974919?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1101237453%2F245967499872%2F1%2Foriginal.20250821-001625?h=200&w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C13%2C1800%2C900&s=75b117e8d89790949cc607d40fc85888"
     },
     {
       "title": "History Week: Sydney Invaded! The American & British Fleets",
@@ -219,11 +212,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F990826703%2F679473379903%2F1%2Foriginal.20250324-023933?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=229%2C20%2C1068%2C534&s=cb1b77aa0b37466b581019b1d72adfe2"
     },
     {
-      "title": "Grand Seafood Buffet - 7 September - Father's Day",
+      "title": "Kirtan in the Park with Madhuvani",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/grand-seafood-buffet-7-september-fathers-day-tickets-1603180509059?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1066444283%2F1283235757843%2F1%2Foriginal.20250704-010822?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511885556308&fp-y=0.677481215875&s=d42ca3350b52c669d36524eac366698a"
+      "link": "https://www.eventbrite.com.au/e/kirtan-in-the-park-with-madhuvani-tickets-1573947933639?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1092697723%2F57894493343%2F1%2Foriginal.20250811-095330?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C11%2C1920%2C960&s=f158eb16bdb05535cb3a60a715b16528"
+    },
+    {
+      "title": "Founding Father's Whisky Masterclass at The Baxter Inn",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/founding-fathers-whisky-masterclass-at-the-baxter-inn-tickets-1561043847169?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1089332683%2F268773832458%2F1%2Foriginal.20250806-071938?crop=focalpoint&fit=crop&w=200&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.539033457249&s=26eb3c074b4326b8a225c79ffef5aaaf"
     }
   ]
 }
