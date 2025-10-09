@@ -1,6 +1,13 @@
 {
-  "last_updated": "2025-10-08T12:40:54.246942Z",
+  "last_updated": "2025-10-09T18:28:27.128844Z",
   "events": [
+    {
+      "title": "Family Fun Day | Free Event",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/family-fun-day-free-event-tickets-1329207227599?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1106036853%2F512094176045%2F1%2Foriginal.20250827-000219?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=affe36769b4dc22b9e1e6332ce9ff927"
+    },
     {
       "title": "One Big Idea",
       "date": "Upcoming",
@@ -16,25 +23,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1101355463%2F141098479592%2F1%2Foriginal.20250821-035715?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=329a8f5dd08f8bcf7f789c97229c2d85"
     },
     {
-      "title": "Seven Deadly Sins / The Halloween Party / Sydney",
+      "title": "#BeerOps SYDNEY EOY2025 - Australia's Largest Tech Networking Event!",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.co.uk/e/seven-deadly-sins-the-halloween-party-sydney-tickets-1545967232609?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1085059603%2F182405714250%2F1%2Foriginal.20250731-023342?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=22%2C0%2C1580%2C790&s=b50b246754e979f2c9902321e37bc409"
-    },
-    {
-      "title": "Affordable Art Fair Sydney 2025",
-      "date": "Upcoming",
-      "location": "Eveleigh, NSW",
-      "link": "https://www.eventbrite.com.au/e/affordable-art-fair-sydney-2025-tickets-1295319699089?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1095627813%2F310006709229%2F1%2Foriginal.20250814-102155?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=2a85c9a32eb83c4e97d132f2a9a9853d"
-    },
-    {
-      "title": "Infected Mushroom - Retro Classics Live Show",
-      "date": "Upcoming",
-      "location": "Darling Park, NSW",
-      "link": "https://www.eventbrite.com.au/e/infected-mushroom-retro-classics-live-show-tickets-1448344831379?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1063952463%2F2245701384243%2F1%2Foriginal.20250701-043311?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=370a8055cec74a24cce9ea177460b925"
+      "link": "https://www.eventbrite.com.au/e/beerops-sydney-eoy2025-australias-largest-tech-networking-event-tickets-1512524073219?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148869193%2F152473765076%2F1%2Foriginal.20251009-114951?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=5%2C0%2C2344%2C1172&s=69075eb0fa0a894f80ea7119c739837f"
     },
     {
       "title": "FRI 31 OCT - HALLOWEEN @ WAO SUPERCLUB",
@@ -51,18 +44,25 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1100429843%2F154153969751%2F1%2Foriginal.20250820-092849?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.489583333333&fp-y=0.352159468439&s=2468402dc47478097f8f7f47f2d70b26"
     },
     {
+      "title": "Seven Deadly Sins / The Halloween Party / Sydney",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.co.uk/e/seven-deadly-sins-the-halloween-party-sydney-tickets-1545967232609?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1085059603%2F182405714250%2F1%2Foriginal.20250731-023342?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=22%2C0%2C1580%2C790&s=b50b246754e979f2c9902321e37bc409"
+    },
+    {
       "title": "BERLIN RAVE (Sydney) ft  KOBOSIL (DE) & UEBERREST (DE)",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/berlin-rave-sydney-ft-kobosil-de-ueberrest-de-tickets-1570740018679?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1102559233%2F347014776913%2F1%2Foriginal.20250822-122938?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C58%2C1920%2C960&s=58d51d4a3ba958627086a4e4200e6792"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148270903%2F347014776913%2F1%2Foriginal.20251008-194035?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C54%2C1920%2C960&s=65c408ee85221e08ab9a4e2a5682ce70"
     },
     {
-      "title": "Private Credit and Fund Investor Evening | Sydney",
+      "title": "Is the deep sea a wasteland or wonderland?",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/private-credit-and-fund-investor-evening-sydney-tickets-1565174812999?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1090225373%2F54901145563%2F1%2Foriginal.20250807-060252?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4500%2C2250&s=7414e53d13cfd0de16c21b4f89f6b029"
+      "link": "https://www.eventbrite.com.au/e/is-the-deep-sea-a-wasteland-or-wonderland-tickets-1343412586209?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1018802653%2F136340644258%2F1%2Foriginal.20250429-032307?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2f5b8c074e9760b94611b3e7d0ea2ea6"
     },
     {
       "title": "FRI 10 OCT - WAO SUPERCLUB @ IVY",
@@ -77,6 +77,13 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/family-fun-day-free-event-tickets-1329207227599?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1106036853%2F512094176045%2F1%2Foriginal.20250827-000219?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=affe36769b4dc22b9e1e6332ce9ff927"
+    },
+    {
+      "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-free-entry-complimentary-drink-tickets-887309505617?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748918359%2F2055543935043%2F1%2Foriginal.20240422-010025?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6de3c49714627a4ec6139403c1c4be75"
     },
     {
       "title": "Sydney Town Hall Organ Recital - One Man Orchestra",
@@ -104,21 +111,14 @@
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/beerops-sydney-eoy2025-australias-largest-tech-networking-event-tickets-1512524073219?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1144878243%2F152473765076%2F1%2Foriginal.20251005-071113?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C2228%2C1114&s=c8748a7713c59dbe280ffa89c40e981e"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148869193%2F152473765076%2F1%2Foriginal.20251009-114951?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=5%2C0%2C2344%2C1172&s=69075eb0fa0a894f80ea7119c739837f"
     },
     {
-      "title": "Cyber Security Webinar",
+      "title": "HBR Book Webinar: Don't Be Yourself",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/cyber-security-webinar-tickets-1721128444509?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129607663%2F2910921409221%2F1%2Foriginal.20250919-191726?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.005&fp-y=0.005&s=c18d75344157f9000c68c7804a19c292"
-    },
-    {
-      "title": "Strategies to De-escalate Children in Distress [Free Webinar]",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/strategies-to-de-escalate-children-in-distress-free-webinar-tickets-1563224930849?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1089556833%2F231441994134%2F1%2Foriginal.20250806-141329?crop=focalpoint&fit=crop&w=300&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d8b86eed3415c22a07abd6d728341534"
+      "link": "https://www.eventbrite.co.uk/e/hbr-book-webinar-dont-be-yourself-tickets-1544861585589?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1084504503%2F24792341007%2F1%2Foriginal.20250730-143352?w=381&auto=format%2Ccompress&q=75&sharp=10&s=e5a73f6801f608e73349fda9d749ddab"
     },
     {
       "title": "Leading From Strong Ground with Bren\u00e9 Brown",
@@ -128,32 +128,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1095306143%2F10515884495%2F1%2Foriginal.20250813-231002?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a6eb77aa787ab2376fe7319bda7f23cf"
     },
     {
-      "title": "Stanford Contemplation By Design Summit 2025 Online (Oct. 15 - 27)",
+      "title": "Research Learning Lectures",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/stanford-contemplation-by-design-summit-2025-online-oct-15-27-registration-1520413249959?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F566234239%2F443218619592%2F1%2Foriginal.20200830-225522?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C66%2C2134%2C1067&s=3a82d56ceda924f0884633384074fdfb"
+      "link": "https://www.eventbrite.com/e/research-learning-lectures-tickets-472469798887?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F632630769%2F583901517333%2F1%2Foriginal.20231101-092848?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b8a4076b261d5129f8d2cca024ea3661"
     },
     {
-      "title": "San Jose Career Fair",
+      "title": "HBR Press Webinar:  The Power of Mattering",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/san-jose-career-fair-tickets-833604913737?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F694525269%2F316131771624%2F1%2Foriginal.20240210-221449?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=d878563ccec40840ec444193c58f5b60"
+      "link": "https://www.eventbrite.com/e/hbr-press-webinar-the-power-of-mattering-tickets-1764799606129?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142422843%2F24792341007%2F1%2Foriginal.20251002-111753?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C15%2C1200%2C600&s=33921be7c34f1b2ffc0278eb73a8d4d4"
     },
     {
-      "title": "Keeping children safe online - webinar",
+      "title": "Psychological Health Regulations: A focus on risk management",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/keeping-children-safe-online-webinar-tickets-1656266009219?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1112982723%2F2538080907901%2F1%2Foriginal.20250903-141938?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=1.0&fp-y=0.5&s=d9c1ae5f67dc27c4476b07821a381ae0"
+      "link": "https://www.eventbrite.com.au/e/psychological-health-regulations-a-focus-on-risk-management-tickets-1555321601779?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1107324793%2F148749470234%2F1%2Foriginal.20250828-044328?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3200%2C1600&s=4918016ba35fa80f8079204b09d22b8b"
     },
     {
-      "title": "CISA Active Shooter Preparedness Webinar - Region 3 - DC/DE/MD/PA/VA/WV",
+      "title": "Content Insiders",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/cisa-active-shooter-preparedness-webinar-region-3-dcdemdpavawv-tickets-1708686179359?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F843727579%2F525935149365%2F1%2Foriginal.20240906-162845?w=400&auto=format%2Ccompress&q=75&sharp=10&s=3a374617e54f1f8d929979bb2fd3262d"
+      "link": "https://www.eventbrite.co.uk/e/content-insiders-tickets-1710909188439?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1140377623%2F1225585712743%2F1%2Foriginal.20250930-182506?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C66%2C1920%2C960&s=64e74e04816045f11d41945710f84e43"
     },
     {
       "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
@@ -163,11 +163,25 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
+      "title": "NASA\u2019s X-59 First Flight",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/nasas-x-59-first-flight-registration-1005256117107?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1100809473%2F977011528923%2F1%2Foriginal.20250820-164809?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.554529594653&fp-y=0.48492867606&s=203e883c639121ef781a9bba7a389f5b"
+    },
+    {
       "title": "AFRODISIA | CAFE DEL MAR SYDNEY + AFTER PARTY AURA | OCT 10",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/afrodisia-cafe-del-mar-sydney-after-party-aura-oct-10-tickets-1671122916629?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1116495513%2F308143788432%2F1%2Foriginal.20250907-031609?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C5400%2C2700&s=dd0a7a571fb5c6a1809fd8eab4dd337b"
+    },
+    {
+      "title": "90s Silent Disco in Sydney Town Hall - Sat 11th Oct (FINAL 20 TICKETS)",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.co.uk/e/90s-silent-disco-in-sydney-town-hall-sat-11th-oct-final-20-tickets-tickets-1299431938909?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F807792929%2F61565826027%2F1%2Foriginal.20240715-112105?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C172%2C3982%2C1991&s=1e7661665fc0d7831a1b181de8716bf0"
     },
     {
       "title": "The Island: Beach Club Saturday with Callyy Takeover!",
@@ -189,13 +203,6 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/lux-vip-syd-an-emerald-evening-20-years-of-hands-across-the-water-tickets-1534176486169?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082356713%2F315543932353%2F1%2Foriginal.20250728-012614?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=464%2C0%2C2352%2C1176&s=4e53d316c9fc5499f0044170ee3aa85b"
-    },
-    {
-      "title": "newport plus 50th",
-      "date": "Upcoming",
-      "location": "Newport, NSW",
-      "link": "https://www.eventbrite.com.au/e/newport-plus-50th-tickets-1482409088489?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1072644123%2F137418029530%2F1%2Foriginal.20250713-230502?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=02542b40a6dfa43a05b2db03eb4989e8"
     },
     {
       "title": "Mode Festival Official VIP Afterparty at W Sydney",
