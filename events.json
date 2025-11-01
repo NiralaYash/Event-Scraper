@@ -1,13 +1,6 @@
 {
-  "last_updated": "2025-11-01T01:41:28.116438Z",
+  "last_updated": "2025-11-01T18:25:23.212868Z",
   "events": [
-    {
-      "title": "Affordable Art Fair Sydney 2025",
-      "date": "Upcoming",
-      "location": "Eveleigh, NSW",
-      "link": "https://www.eventbrite.com.au/e/affordable-art-fair-sydney-2025-tickets-1295319699089?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1095627813%2F310006709229%2F1%2Foriginal.20250814-102155?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=2a85c9a32eb83c4e97d132f2a9a9853d"
-    },
     {
       "title": "BERLIN RAVE (Sydney) ft  KOBOSIL (DE) & UEBERREST (DE)",
       "date": "Upcoming",
@@ -16,11 +9,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156860473%2F347014776913%2F1%2Foriginal.20251019-055422?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C54%2C1920%2C960&s=547675ecc8f571f4c8789b3206ceef6c"
     },
     {
-      "title": "InterContinental Sydney - Wedding Showcase",
+      "title": "2025 Francis Gurry Lecture on Intellectual Property - SYDNEY",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/intercontinental-sydney-wedding-showcase-tickets-1763451213049?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1143293673%2F2933230487221%2F1%2Foriginal.20251003-024718?w=400&auto=format%2Ccompress&q=75&sharp=10&s=52ceaf8078f2bc761926db3949805ec6"
+      "link": "https://www.eventbrite.com.au/e/2025-francis-gurry-lecture-on-intellectual-property-sydney-tickets-1763176150329?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1142064263%2F407347580783%2F1%2Foriginal.20251002-005806?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b805a1014d6b0aa5554218f4fe7bcc26"
+    },
+    {
+      "title": "IN PERSON Parliament Unpacked: The Dismissal",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/in-person-parliament-unpacked-the-dismissal-tickets-1791619615499?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148641223%2F512094176045%2F1%2Foriginal.20251009-040034?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b2403982926efd91fe729ddbd99f9bcd"
     },
     {
       "title": "Sydney Meditation & Mindset Workshop - 15 & 16 November  2025",
@@ -30,25 +30,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F905767653%2F224788630336%2F1%2Foriginal.20241125-062947?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=19%2C0%2C898%2C449&s=64bb013fa984c0a8654f8eaad9276e10"
     },
     {
-      "title": "Seven Deadly Sins / The Halloween Party / Sydney",
+      "title": "ZURI ft. Maison Ware & Friends",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.co.uk/e/seven-deadly-sins-the-halloween-party-sydney-tickets-1545967232609?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149752743%2F182405714250%2F1%2Foriginal.20250731-023342?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=136%2C60%2C1354%2C677&s=612ddf5b8d74eabe841c0bb00c40c6e4"
+      "link": "https://www.eventbrite.com.au/e/zuri-ft-maison-ware-friends-tickets-1827472823409?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1153660993%2F1046023766493%2F1%2Foriginal.20251015-081429?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=2378d506a54bc028f35b0ffbdab9e3f0"
     },
     {
-      "title": "Boat Party | HALLOWEEN HORROR | Open Air Rooftop + Free Afterparty",
+      "title": "PROMO",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/boat-party-halloween-horror-open-air-rooftop-free-afterparty-tickets-1625126700709?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1161540983%2F347014776913%2F1%2Foriginal.20251024-120529?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C24%2C1920%2C960&s=1bd41a7d245acf41d6700069ff122c15"
-    },
-    {
-      "title": "WAVE HALLOWEEN  - SAT 01 NOV 2025",
-      "date": "Upcoming",
-      "location": "Haymarket, NSW",
-      "link": "https://www.eventbrite.com.au/e/wave-halloween-sat-01-nov-2025-tickets-1677734542179?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1118298953%2F2181777799633%2F1%2Foriginal.20250909-021122?w=450&auto=format%2Ccompress&q=75&sharp=10&s=26d17031e147a57a02b4f54054cafd9e"
+      "link": "https://www.eventbrite.com.au/e/promo-tickets-1580989144089?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1093666693%2F1787513896953%2F1%2Foriginal.20250812-103957?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c9871aa18945716bcdc40c4b4c372843"
     },
     {
       "title": "Claptone Sydney",
@@ -58,18 +51,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127826263%2F2245701384243%2F1%2Foriginal.20250918-053420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.749449990012&fp-y=0.528377283758&s=8ba3068c7f5274b0b5abace3b7910343"
     },
     {
-      "title": "The Ultimate Halloween Boat Party + Free After Party",
-      "date": "Upcoming",
-      "location": "Darling Harbour, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-ultimate-halloween-boat-party-free-after-party-tickets-1826696832399?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1119781063%2F363582059739%2F1%2Foriginal.20250910-095548?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&s=c31b80b545442c9dcd1a18221eedbc15"
-    },
-    {
-      "title": "Watchfest 2025",
+      "title": "New Year's Eve at Farm Cove",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/watchfest-2025-tickets-1751251914619?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1137844733%2F323304087837%2F1%2Foriginal.20250928-124237?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=7%2C513%2C1400%2C700&s=ea1acd852df5aee18d3dce66faeb9d63"
+      "link": "https://www.eventbrite.com.au/e/new-years-eve-at-farm-cove-tickets-1629312480489?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F845094069%2F297412113907%2F1%2Foriginal.20240909-042224?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C656%2C5240%2C2620&s=06e2a5b7aea46aa3636b3a56961b8929"
+    },
+    {
+      "title": "Boxing Day Lunch Cruise | All inclusive | Sydney to Hobart Yacht Race",
+      "date": "Upcoming",
+      "location": "The Rocks, NSW",
+      "link": "https://www.eventbrite.com/e/boxing-day-lunch-cruise-all-inclusive-sydney-to-hobart-yacht-race-tickets-1860945360669?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1160288903%2F1869499194683%2F1%2Foriginal.20251023-013806?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=100%2C0%2C1600%2C800&s=679e67cfbdc5633139b31643a3b1db7a"
     },
     {
       "title": "Homemade Halloween - 1st November 2025",
@@ -79,18 +72,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1164915013%2F2245701384243%2F1%2Foriginal.20251028-221128?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5c215edf3532300f545827555c0302a"
     },
     {
-      "title": "Soulmate: Sydney\u2019s hottest Sunday sesh (Halloween special)",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/soulmate-sydneys-hottest-sunday-sesh-halloween-special-tickets-1828391731889?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F820490289%2F2067060581173%2F1%2Foriginal.20240805-071338?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C49%2C1178%2C589&s=0c59b583904bafb402488cdeeb887b8b"
-    },
-    {
       "title": "Sun-Day Sessions at Bondi Beach Club",
       "date": "Upcoming",
       "location": "North Bondi, NSW",
       "link": "https://www.eventbrite.com.au/e/sun-day-sessions-at-bondi-beach-club-tickets-1709592139109?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1165139473%2F2505119753691%2F1%2Foriginal.20251029-053445?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2560%2C1280&s=b9b81ca1b33b2236787cbcf657722959"
+    },
+    {
+      "title": "Soulmate: Sydney\u2019s hottest Sunday sesh (Halloween special)",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/soulmate-sydneys-hottest-sunday-sesh-halloween-special-tickets-1828391731889?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F820490289%2F2067060581173%2F1%2Foriginal.20240805-071338?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C49%2C1178%2C589&s=0c59b583904bafb402488cdeeb887b8b"
     },
     {
       "title": "The Business Show Australia",
@@ -107,6 +100,13 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148534913%2F2101055229553%2F1%2Foriginal.20251009-003542?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e5e5a898f4eb63d434c1337a33976ad3"
     },
     {
+      "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-free-entry-complimentary-drink-tickets-887309505617?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748918359%2F2055543935043%2F1%2Foriginal.20240422-010025?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6de3c49714627a4ec6139403c1c4be75"
+    },
+    {
       "title": "Club Hibernia - Australia's First High Speed Rail",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -114,109 +114,67 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1157977483%2F289529060115%2F1%2Foriginal.20251020-225023?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f16e736092a8ef1c72f866a963bad0ed"
     },
     {
-      "title": "SFU MD Admissions: Live Q&A Session",
+      "title": "ADHD:  A deep dive into supportive interventions and dispelling myths",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.ca/e/sfu-md-admissions-live-qa-session-tickets-1782556567679?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1147186303%2F2754862853041%2F1%2Foriginal.20251007-195655?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6815aeb788560b6110a213ca0198de1e"
+      "link": "https://www.eventbrite.com/e/adhd-a-deep-dive-into-supportive-interventions-and-dispelling-myths-tickets-1458695630899?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1065439793%2F265297162944%2F1%2Foriginal.20250702-195238?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.494040915916&fp-y=0.357976653696&s=6556f6968e8310e86f935fd931d85074"
     },
     {
-      "title": "Behind the Scam: Police Guide to Modern Fraud & Cyber Threats",
+      "title": "401 Games:  One Piece Card Game - Online Treasure Cup",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/behind-the-scam-police-guide-to-modern-fraud-cyber-threats-tickets-1801157423339?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1151559763%2F198255583087%2F1%2Foriginal.20251013-071523?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1414%2C707&s=263c210887a8d1f9a4f5f0245b67d682"
+      "link": "https://www.eventbrite.ca/e/401-games-one-piece-card-game-online-treasure-cup-tickets-1538804348229?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1083153353%2F2696437196401%2F1%2Foriginal.20250728-232057?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.535019455253&fp-y=0.247859925148&s=6f430505d43b91318d26ac630a8ac483"
     },
     {
-      "title": "3rd level Students: ADHD awareness, acceptance and study skills",
+      "title": "Thriving In Later Life - with Dr Kerry Burnight",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.ie/e/3rd-level-students-adhd-awareness-acceptance-and-study-skills-tickets-1432995661599?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1060134913%2F462839988410%2F1%2Foriginal.20250625-083003?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=594de07c52a4e349e97a04440e528330"
+      "link": "https://www.eventbrite.co.uk/e/thriving-in-later-life-with-dr-kerry-burnight-tickets-1719256455339?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1129154143%2F12679432051%2F1%2Foriginal.20250919-105620?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C1%2C1000%2C500&s=b1ffef685adba5ddfc9c5c191139f5e6"
     },
     {
-      "title": "Virtual Workshop: Holiday Card Making with Paper Source",
+      "title": "Stockton Career Fair",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/virtual-workshop-holiday-card-making-with-paper-source-tickets-1790004735349?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1148425513%2F2275864377483%2F1%2Foriginal.20251008-220823?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4bf9dd611751b6135fd254e62271d4ea"
+      "link": "https://www.eventbrite.com/e/stockton-career-fair-tickets-98959850577?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F727182429%2F316131771624%2F1%2Foriginal.20240324-235235?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C100%2C800%2C400&s=3768957799f7688c90a8c8041d50a2ec"
     },
     {
-      "title": "Delegate Effectively  | Leadership Conversations for people leaders",
+      "title": "The Role of Food in Rehabilitation & Resettlement: Good Food & Good Lives",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com.au/e/delegate-effectively-leadership-conversations-for-people-leaders-tickets-1666089501549?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449898459%2F435377797366%2F1%2Foriginal.20230220-030827?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5aab400b33fc9ecbafbf47b85327b339"
+      "link": "https://www.eventbrite.co.uk/e/the-role-of-food-in-rehabilitation-resettlement-good-food-good-lives-tickets-1707498186039?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1125539313%2F148539322425%2F1%2Foriginal.20250916-124103?w=452&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C7%2C452%2C226&s=289e343673b5e26f7141fc5063b5cc73"
     },
     {
-      "title": "WORKING WITH YOUNG PEOPLE WHO USE VIOLENCE, AGGRESSION OR  JUSTICE INVOLVED",
+      "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com.au/e/working-with-young-people-who-use-violence-aggression-or-justice-involved-tickets-1108892550469?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1127709873%2F223921285124%2F1%2Foriginal.20250918-012022?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2d717e7ff98ba7321f96ee83e5ddd627"
+      "link": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
-      "title": "Drawing Dialogues | with Sir Grayson Perry RA",
+      "title": "A POSITIVE APPROACH TO CARE WITH TEEPA SNOW",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/drawing-dialogues-with-sir-grayson-perry-ra-tickets-1407467365779?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1084598523%2F1458559120253%2F1%2Foriginal.20250730-160414?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.530505165535&fp-y=0.622568093385&s=0baf3ab92cb9fb2c19483b6faa24e665"
+      "link": "https://www.eventbrite.com/e/a-positive-approach-to-care-with-teepa-snow-tickets-1329106245559?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1070711433%2F288478143838%2F1%2Foriginal.20250710-132417?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.530303030303&fp-y=0.0476653696498&s=5240acac9259b3794c64d8a60db73afc"
     },
     {
-      "title": "NASA's Sentinel-6 B  Mission Launch",
+      "title": "How to Prepare Your Startup for Venture Capital Funding",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/nasas-sentinel-6-b-mission-launch-registration-1406253164069?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049146803%2F977011528923%2F1%2Foriginal.20250609-182442?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.469530221188&fp-y=0.497732958257&s=f008fde485f1709c945d7d5d5675c4df"
+      "link": "https://www.eventbrite.ca/e/how-to-prepare-your-startup-for-venture-capital-funding-tickets-1046678763357?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F485661519%2F3951017871%2F1%2Foriginal.20220322-013625?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C70%2C960%2C480&s=530f7df825c66dcac06fc2afc41f8e7d"
     },
     {
-      "title": "Seven Deadly Sins / The Halloween Party / Sydney",
+      "title": "IT Social Sydney Friday | Data, Technology, Cybersecurity, IT",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.co.uk/e/seven-deadly-sins-the-halloween-party-sydney-tickets-1545967232609?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149752743%2F182405714250%2F1%2Foriginal.20250731-023342?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=136%2C60%2C1354%2C677&s=612ddf5b8d74eabe841c0bb00c40c6e4"
-    },
-    {
-      "title": "Excellence in Advocacy: Pre-recorded hearings training- Sydney",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/excellence-in-advocacy-pre-recorded-hearings-training-sydney-tickets-1685830828389?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1120659803%2F126759716969%2F1%2Foriginal.20250910-235225?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C72%2C862%2C431&s=dcdb76ab916c8303d61ead883df8a69b"
-    },
-    {
-      "title": "Boat Party | HALLOWEEN HORROR | Open Air Rooftop + Free Afterparty",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/boat-party-halloween-horror-open-air-rooftop-free-afterparty-tickets-1625126700709?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1161540983%2F347014776913%2F1%2Foriginal.20251024-120529?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C24%2C1920%2C960&s=1bd41a7d245acf41d6700069ff122c15"
-    },
-    {
-      "title": "WAVE HALLOWEEN  - SAT 01 NOV 2025",
-      "date": "Upcoming",
-      "location": "Haymarket, NSW",
-      "link": "https://www.eventbrite.com.au/e/wave-halloween-sat-01-nov-2025-tickets-1677734542179?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1118298953%2F2181777799633%2F1%2Foriginal.20250909-021122?w=450&auto=format%2Ccompress&q=75&sharp=10&s=26d17031e147a57a02b4f54054cafd9e"
-    },
-    {
-      "title": "World Vegan Day  - Newtown Picnic - ***UPDATED LOCATION***",
-      "date": "Upcoming",
-      "location": "Newtown, NSW",
-      "link": "https://www.eventbrite.com.au/e/world-vegan-day-newtown-picnic-updated-location-registration-1840168466419?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1167725493%2F2960263130331%2F1%2Foriginal.20251101-000727?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=4a31a3040a75af38c09ee1df4f3a6d76"
-    },
-    {
-      "title": "The ULTIMATE Halloween Pub Crawl | Saturday 1 November | Sydney",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/the-ultimate-halloween-pub-crawl-saturday-1-november-sydney-tickets-1609767591199?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1100429843%2F154153969751%2F1%2Foriginal.20250820-092849?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.489583333333&fp-y=0.352159468439&s=2468402dc47478097f8f7f47f2d70b26"
-    },
-    {
-      "title": "P\u00f4r do Samba",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/por-do-samba-tickets-1809777084979?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1150956533%2F291626714626%2F1%2Foriginal.20251012-012217?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.502&fp-y=0.507&s=eef20226fca62fecdc249a65a8af4f24"
+      "link": "https://www.eventbrite.com.au/e/it-social-sydney-friday-data-technology-cybersecurity-it-tickets-927177231057?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1067437033%2F188149727845%2F1%2Foriginal.20250706-135441?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=7694427839b945f25252a20476e96750"
     },
     {
       "title": "D\u00e8sir\u00e8e",
@@ -224,6 +182,41 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com/e/desiree-tickets-1566617086879?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149694713%2F2857901973061%2F1%2Foriginal.20251010-035600?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4f6fd41061ad979eab83f0a6cfcfd961"
+    },
+    {
+      "title": "The Island: Sweatrz with Yolanda Be Cool, Paluma and Julian Tobias!",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/the-island-sweatrz-with-yolanda-be-cool-paluma-and-julian-tobias-tickets-1360794997469?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159395433%2F2141025989923%2F1%2Foriginal.20251022-072547?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1280%2C640&s=4d5dc2385b5324cbad77d45132f4f630"
+    },
+    {
+      "title": "BACK TO BOOGIE WONDERLAND Presents  HALLOWEEN EXTRAVAGANZA",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/back-to-boogie-wonderland-presents-halloween-extravaganza-tickets-1812429859499?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1151544703%2F288756148342%2F1%2Foriginal.20251013-062008?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C45%2C1920%2C960&s=d1ea21c4b63a97fdca386a2a87f700db"
+    },
+    {
+      "title": "CANNABlS BREATHWORK | Plant Medicine Journey | Sydney",
+      "date": "Upcoming",
+      "location": "Cronulla, NSW",
+      "link": "https://www.eventbrite.com.au/e/cannabls-breathwork-plant-medicine-journey-sydney-tickets-1706260122959?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1125372913%2F2006797411353%2F1%2Foriginal.20250916-090201?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.479166666667&fp-y=0.423507462687&s=12ffe50eb49588b232649fac3af2c9b2"
+    },
+    {
+      "title": "Grand Seafood Buffet - 2 November",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/grand-seafood-buffet-2-november-tickets-1772698863019?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1066444283%2F1283235757843%2F1%2Foriginal.20250704-010822?crop=focalpoint&fit=crop&w=452&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511885556308&fp-y=0.677481215875&s=f8dc27224511ea39d240372c2cf69eaa"
+    },
+    {
+      "title": "MORNING GORY HALLOWEEN",
+      "date": "Upcoming",
+      "location": "Darling Park, NSW",
+      "link": "https://www.eventbrite.com.au/e/morning-gory-halloween-tickets-1741099899669?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1134884043%2F2245701384243%2F1%2Foriginal.20250925-054847?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.267&fp-y=0.509&s=bbe90570b306cba5f90af050db8f46e0"
     }
   ]
 }
