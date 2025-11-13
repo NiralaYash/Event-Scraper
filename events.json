@@ -1,13 +1,6 @@
 {
-  "last_updated": "2025-11-13T01:40:28.393516Z",
+  "last_updated": "2025-11-13T12:43:32.929074Z",
   "events": [
-    {
-      "title": "SPIRITS & BITES",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/spirits-bites-tickets-1141662957639?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1157337223%2F1286571898493%2F1%2Foriginal.20251020-032555?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.028&fp-y=0.522&s=0ed2627ccf4f7e31d685530b0288fde0"
-    },
     {
       "title": "AI Summit Sydney 2025: Your Role, Your Company, Your Future",
       "date": "Upcoming",
@@ -20,7 +13,7 @@
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/sydney-town-hall-organ-recital-featuring-daniel-roth-saint-sulpice-paris-tickets-1343424281189?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1018796123%2F1570337066833%2F1%2Foriginal.20250429-030548?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6a3d8989a07eab025419e91362aea60"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1018796123%2F1570337066833%2F1%2Foriginal.20250429-030548?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=0068914392f634f807155299e0148d13"
     },
     {
       "title": "UNSW Founders New Wave Showcase",
@@ -28,6 +21,13 @@
       "location": "Kensington, NSW",
       "link": "https://www.eventbrite.com.au/e/unsw-founders-new-wave-showcase-tickets-1685872643459?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1126658143%2F147761249777%2F1%2Foriginal.20250917-075458?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b6c8c9a6ac30be0a76b7e78342788d05"
+    },
+    {
+      "title": "Writers @ Stanton:  Ita Buttrose",
+      "date": "Upcoming",
+      "location": "North Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/writers-stanton-ita-buttrose-tickets-1741075426469?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1154585033%2F1334921392293%2F1%2Foriginal.20251016-015252?w=400&auto=format%2Ccompress&q=75&sharp=10&s=0081dbc22d41a806800e0037cf1bfb8b"
     },
     {
       "title": "ZURI ft. Maison Ware & Friends",
@@ -58,11 +58,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170158881%2F1145108830523%2F1%2Foriginal.20251104-230722?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a3b96c47606235dc7ab01cea2765d52a"
     },
     {
-      "title": "A Chandon Christmas",
+      "title": "Serve everyone: how inclusive businesses win more customers",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/a-chandon-christmas-tickets-1919142148829?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1165932943%2F821927265383%2F1%2Foriginal.20251029-223339?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=200%2C0%2C1200%2C600&s=5c8609acb7300922a2c29ce993e68a5f"
+      "link": "https://www.eventbrite.com.au/e/serve-everyone-how-inclusive-businesses-win-more-customers-tickets-1736184627959?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1159127823%2F233685725072%2F1%2Foriginal.20251021-221328?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&s=ef69dfaf1717b75522f171d78598f362"
     },
     {
       "title": "Cruise with the Europeans 2025",
@@ -93,6 +93,13 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170547251%2F54901145563%2F1%2Foriginal.20251109-232733?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e3dc4ade4db9f0bea723218b149e9127"
     },
     {
+      "title": "The Island: Sunday Sessions with WeLove",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/the-island-sunday-sessions-with-welove-tickets-1360831907869?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1126299463%2F2141025989923%2F1%2Foriginal.20250916-222709?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C125%2C4000%2C2000&s=98d1a0dc290da7409704bcef7291e143"
+    },
+    {
       "title": "Sydney Town Hall Organ Recital  featuring Daniel Roth, Saint-Sulpice, Paris",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -107,67 +114,60 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170759902%2F2142623172483%2F1%2Foriginal.20251112-060334?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c623bb05ff5aca6d284671e4b4c5e417"
     },
     {
-      "title": "RUSH 2.0 at Plaza x Bondi Lines",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/rush-20-at-plaza-x-bondi-lines-tickets-1727386763309?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132090833%2F1007464004453%2F1%2Foriginal.20250923-004020?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e29d31594bb84c3a251861918a782688"
-    },
-    {
-      "title": "Artificial Intelligence & Human Resilience in Bruce Holsinger\u2019s Culpability",
+      "title": "Lean Global Connection 2025",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/artificial-intelligence-human-resilience-in-bruce-holsingers-culpability-registration-1754959203219?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1139243293%2F263343914247%2F1%2Foriginal.20250929-202942?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d4cd7d6c901763e14f9f76b024c976fb"
+      "link": "https://www.eventbrite.com/e/lean-global-connection-2025-tickets-1469497860659?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1073037063%2F488918536279%2F1%2Foriginal.20250714-145624?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=0486407d4361b4da5b9e19f73de3f548"
     },
     {
-      "title": "Virtual Written Testing (APCAT) Workshop",
+      "title": "Climate Law and Governance Day 2025 | 14 Nov 2025",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.ca/e/virtual-written-testing-apcat-workshop-tickets-1301380286469?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F992592623%2F2189778777153%2F1%2Foriginal.20240624-195702?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=822773a5239a7cba19f0a47ba0b7d3d6"
+      "link": "https://www.eventbrite.ca/e/climate-law-and-governance-day-2025-14-nov-2025-tickets-1784763278009?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1168350833%2F6651695199%2F1%2Foriginal.20251102-153308?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2000%2C1000&s=1701607c3fd5b600b2fb952c5a047ae0"
     },
     {
-      "title": "Delegate Effectively  | Leadership Conversations for people leaders",
+      "title": "Research Learning Lectures",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com.au/e/delegate-effectively-leadership-conversations-for-people-leaders-tickets-1666089501549?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449898459%2F435377797366%2F1%2Foriginal.20230220-030827?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5aab400b33fc9ecbafbf47b85327b339"
+      "link": "https://www.eventbrite.com/e/research-learning-lectures-tickets-472469798887?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F632630769%2F583901517333%2F1%2Foriginal.20231101-092848?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=b8a4076b261d5129f8d2cca024ea3661"
     },
     {
-      "title": "Serle Court Online Prospective Pupillage Evening - 20th November 2025",
+      "title": "Atelier de formation clinique - Novembre 2025 - Chantal Blais",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/serle-court-online-prospective-pupillage-evening-20th-november-2025-tickets-1559264685649?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1088514333%2F1710368341923%2F1%2Foriginal.20250805-111508?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3750%2C1875&s=693d372689e6bd83323b91b80a61a412"
+      "link": "https://www.eventbrite.ca/e/atelier-de-formation-clinique-novembre-2025-chantal-blais-tickets-1735551654719?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1141844923%2F1779056365773%2F1%2Foriginal.20251001-204759?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d74b364d807e93b48541cc9f576b6d2"
     },
     {
-      "title": "Understanding Prison Violence in Aotearoa VI",
+      "title": "7 Quick Wins: Supporting Demand-Avoidant Learners in Your Classroom",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.nz/e/understanding-prison-violence-in-aotearoa-vi-tickets-1855091421379?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170251650%2F292777706563%2F1%2Foriginal.20251105-210139?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1754%2C877&s=3f9e9fdc3bb27031ce4ffe92279adb65"
+      "link": "https://www.eventbrite.co.uk/e/7-quick-wins-supporting-demand-avoidant-learners-in-your-classroom-tickets-1734261666329?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170218279%2F241553234812%2F1%2Foriginal.20251105-160543?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C49%2C1608%2C804&s=06530c4ed400f2849231696836731832"
     },
     {
-      "title": "Women in Tech Miami/Ft. Lauderdale - OutGeekWomen",
+      "title": "Benzodiazepines/Z-drugs and Opioid Co-use: Research and Recommendations",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/women-in-tech-miamift-lauderdale-outgeekwomen-tickets-883771904557?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F938566133%2F529664982707%2F1%2Foriginal.20250117-201400?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.136363636364&fp-y=0.481343283582&s=295e666941acd00571b9a15367e5721b"
+      "link": "https://www.eventbrite.co.uk/e/benzodiazepinesz-drugs-and-opioid-co-use-research-and-recommendations-tickets-1796431929259?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1155070633%2F234021207122%2F1%2Foriginal.20251016-152240?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C50%2C1600%2C800&s=2266b9083380aab87bfc31d44248ea74"
     },
     {
-      "title": "NASA\u2019s X-59 First Flight",
+      "title": "Washington DC Hiring Event",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/nasas-x-59-first-flight-registration-1005256117107?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1100809473%2F977011528923%2F1%2Foriginal.20250820-164809?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.554529594653&fp-y=0.48492867606&s=203e883c639121ef781a9bba7a389f5b"
+      "link": "https://www.eventbrite.com/e/washington-dc-hiring-event-tickets-767101540357?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F648367039%2F109033103239%2F1%2Foriginal.20231126-204545?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C126%2C1500%2C750&s=38acc52c0edbb58d1a1d45f8575cf2cc"
     },
     {
-      "title": "The Alamo: 2004 - Film History Livestream",
+      "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/the-alamo-2004-film-history-livestream-tickets-1066589661389?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F665089759%2F37309396322%2F1%2Foriginal.20231231-012459?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C102%2C3000%2C1500&s=8eac12063f1a3157b29d321964898b1d"
+      "link": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
       "title": "Sydney Meditation & Mindset Workshop - 15 & 16 November  2025",
@@ -212,11 +212,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F962743643%2F1975244284823%2F1%2Foriginal.20250217-204457?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=7cdeda8fc2410a02acf7315b61b6d01d"
     },
     {
-      "title": "The Island: Sunday Sessions with WeLove",
+      "title": "PROMO",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-island-sunday-sessions-with-welove-tickets-1360831907869?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1126299463%2F2141025989923%2F1%2Foriginal.20250916-222709?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C125%2C4000%2C2000&s=98d1a0dc290da7409704bcef7291e143"
+      "link": "https://www.eventbrite.com.au/e/promo-tickets-1580989144089?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1093666693%2F1787513896953%2F1%2Foriginal.20250812-103957?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c9871aa18945716bcdc40c4b4c372843"
     },
     {
       "title": "HOMEBASE 10TH ANNIVERSARY POP-UP",
