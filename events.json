@@ -1,19 +1,19 @@
 {
-  "last_updated": "2025-11-16T01:44:38.061203Z",
+  "last_updated": "2025-11-16T12:37:07.540614Z",
   "events": [
+    {
+      "title": "UNSW Founders New Wave Showcase",
+      "date": "Upcoming",
+      "location": "Kensington, NSW",
+      "link": "https://www.eventbrite.com.au/e/unsw-founders-new-wave-showcase-tickets-1685872643459?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1126658143%2F147761249777%2F1%2Foriginal.20250917-075458?w=400&auto=format%2Ccompress&q=75&sharp=10&s=b6c8c9a6ac30be0a76b7e78342788d05"
+    },
     {
       "title": "HerAI Connect: AI Careers Unlocked - Finding Your Role in an AI Future",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com/e/herai-connect-ai-careers-unlocked-finding-your-role-in-an-ai-future-tickets-1836404688859?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1163936153%2F2958551673411%2F1%2Foriginal.20251027-230337?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ca7073c2728728f06f8dca27de205764"
-    },
-    {
-      "title": "The Future of Staffing: Redefining Solutions, Value & Growth",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.co.uk/e/the-future-of-staffing-redefining-solutions-value-growth-tickets-1471737228669?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1068686553%2F2173658751363%2F1%2Foriginal.20250708-052420?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=51684e3cb28ac90a44e0d8f0fe63a3c5"
     },
     {
       "title": "TALUM AUSTRALIA: Cafe Del Mar - Sunday 23rd November",
@@ -72,6 +72,13 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1132140503%2F245967499872%2F1%2Foriginal.20250923-014438?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=08c8bc95c83d130b049d2e5060ff8fe8"
     },
     {
+      "title": "The Island: Sunday Sessions with WeLove",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/the-island-sunday-sessions-with-welove-tickets-1360831907869?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1126299463%2F2141025989923%2F1%2Foriginal.20250916-222709?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C125%2C4000%2C2000&s=98d1a0dc290da7409704bcef7291e143"
+    },
+    {
       "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -84,13 +91,6 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/seadeck-saturdays-x-body-talk-tickets-1435869015879?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170759902%2F2142623172483%2F1%2Foriginal.20251112-060334?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c623bb05ff5aca6d284671e4b4c5e417"
-    },
-    {
-      "title": "Special Live Panel: The Future of Freediving",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/special-live-panel-the-future-of-freediving-tickets-1855748877849?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1164116273%2F679473379903%2F1%2Foriginal.20251028-043451?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C900%2C450&s=231d0e62149d2cae6f0afa9914d0a6e9"
     },
     {
       "title": "FRI 28 NOV - INQUISITIVE @ WAO SUPERCLUB",
@@ -114,6 +114,34 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170866217%2F2235317029053%2F1%2Foriginal.20251113-112617?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C21%2C1800%2C900&s=24e774b4eb00ec2424558bf362346051"
     },
     {
+      "title": "NASA's Sentinel-6 B  Mission Launch",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/nasas-sentinel-6-b-mission-launch-registration-1406253164069?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1049146803%2F977011528923%2F1%2Foriginal.20250609-182442?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.469530221188&fp-y=0.497732958257&s=ff988667024a21d55c75f12ec8cea639"
+    },
+    {
+      "title": "Delegate Effectively  | Leadership Conversations for people leaders",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com.au/e/delegate-effectively-leadership-conversations-for-people-leaders-tickets-1666089501549?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F449898459%2F435377797366%2F1%2Foriginal.20230220-030827?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=5aab400b33fc9ecbafbf47b85327b339"
+    },
+    {
+      "title": "Understanding anxiety for teachers",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.ie/e/understanding-anxiety-for-teachers-tickets-1922483763689?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166295753%2F39177262496%2F1%2Foriginal.20251030-115941?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=be127ecd2a37d6fa6fbe14a01d29b964"
+    },
+    {
+      "title": "The Radical Imagination of Octavia E. Butler",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/the-radical-imagination-of-octavia-e-butler-registration-1967684174334?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170607328%2F443192820252%2F1%2Foriginal.20251110-172817?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.88&fp-y=0.164&s=dce6a47a3f7a195ac0419b31b8d3bdb1"
+    },
+    {
       "title": "Drawing Dialogues | with Sir Grayson Perry RA",
       "date": "Upcoming",
       "location": "online",
@@ -121,25 +149,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1084598523%2F1458559120253%2F1%2Foriginal.20250730-160414?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.530505165535&fp-y=0.622568093385&s=0baf3ab92cb9fb2c19483b6faa24e665"
     },
     {
-      "title": "7 Quick Wins: Supporting Demand-Avoidant Learners in Your Classroom",
+      "title": "Data on the Social Determinants of Health",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/7-quick-wins-supporting-demand-avoidant-learners-in-your-classroom-tickets-1734261666329?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170218279%2F241553234812%2F1%2Foriginal.20251105-160543?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C49%2C1608%2C804&s=06530c4ed400f2849231696836731832"
+      "link": "https://www.eventbrite.ca/e/data-on-the-social-determinants-of-health-tickets-1542944812469?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1084107263%2F369560566375%2F1%2Foriginal.20250730-000538?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2b1d879007945158fe67c0718be23c18"
     },
     {
-      "title": "Washington DC Hiring Event",
+      "title": "Women in Tech Miami/Ft. Lauderdale - OutGeekWomen",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/washington-dc-hiring-event-tickets-767101540357?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F648367039%2F109033103239%2F1%2Foriginal.20231126-204545?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C126%2C1500%2C750&s=38acc52c0edbb58d1a1d45f8575cf2cc"
-    },
-    {
-      "title": "Modern Investor Summit 2025",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/modern-investor-summit-2025-tickets-1110286931099?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170976482%2F265910673666%2F1%2Foriginal.20251114-155911?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C1060%2C530&s=0e23e369619cd46120af9ffc46d58608"
+      "link": "https://www.eventbrite.com/e/women-in-tech-miamift-lauderdale-outgeekwomen-tickets-883771904557?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F938566133%2F529664982707%2F1%2Foriginal.20250117-201400?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.136363636364&fp-y=0.481343283582&s=295e666941acd00571b9a15367e5721b"
     },
     {
       "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
@@ -149,39 +170,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
-      "title": "A POSITIVE APPROACH TO CARE WITH TEEPA SNOW",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/a-positive-approach-to-care-with-teepa-snow-tickets-1329106245559?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1070711433%2F288478143838%2F1%2Foriginal.20250710-132417?crop=focalpoint&fit=crop&w=355&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.530303030303&fp-y=0.0476653696498&s=4c88ed1d45b2e8ae0206fa576f9344db"
-    },
-    {
-      "title": "How to Do a  Venture Capital Financing",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.ca/e/how-to-do-a-venture-capital-financing-tickets-812165377507?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F485664049%2F3951017871%2F1%2Foriginal.20210122-000942?w=306&auto=format%2Ccompress&q=75&sharp=10&rect=4%2C0%2C306%2C153&s=ba5e43f03716796bdb9a171c845765cf"
-    },
-    {
-      "title": "San Jose Career Fair",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/san-jose-career-fair-tickets-779022676797?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F659862079%2F183327965130%2F1%2Foriginal.20231217-195021?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=5cacbaad220502c2963bb4b783b03315"
-    },
-    {
-      "title": "Sydney Harbour Retro Boat Party",
+      "title": "Scary Canary Fridays",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-harbour-retro-boat-party-tickets-1313375805389?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1001507873%2F157580943815%2F1%2Foriginal.20250405-024008?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C99%2C960%2C480&s=1024ccfc0d172ffe8dfe5237dbf38524"
-    },
-    {
-      "title": "Puppy Yoga: The Hidden Psychology Behind the Craze - Sydney",
-      "date": "Upcoming",
-      "location": "Sydney, ",
-      "link": "https://www.eventbrite.com/e/puppy-yoga-the-hidden-psychology-behind-the-craze-sydney-tickets-1925446695899?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166700303%2F2975114406611%2F1%2Foriginal.20251030-190247?w=355&auto=format%2Ccompress&q=75&sharp=10&s=0cc47b7c276a05f36018d44af262a3ff"
+      "link": "https://www.eventbrite.com.au/e/scary-canary-fridays-tickets-1023145795617?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F854096909%2F2300798362103%2F1%2Foriginal.20240919-045104?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C170%2C2048%2C1024&s=84b6db8c00d6f86c9b5984c89e1a6e15"
     },
     {
       "title": "Real Estate: How to Use AI to Sell More Properties  - Sydney",
@@ -198,18 +191,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1168118733%2F2975117880761%2F1%2Foriginal.20251101-223442?w=355&auto=format%2Ccompress&q=75&sharp=10&s=4952bc384796c86c6477e29e0b7a99c7"
     },
     {
-      "title": "The Island: Sunday Sessions with WeLove",
+      "title": "Mini Mariners",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-island-sunday-sessions-with-welove-tickets-1360831907869?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1126299463%2F2141025989923%2F1%2Foriginal.20250916-222709?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C125%2C4000%2C2000&s=98d1a0dc290da7409704bcef7291e143"
+      "link": "https://www.eventbrite.com.au/e/mini-mariners-tickets-216146840017?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F190611819%2F136340644258%2F1%2Foriginal.20211123-094403?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C177%2C2500%2C1250&s=e9d8ed623c7dfa84648b21ed7ff4e5c9"
     },
     {
-      "title": "HOMEBASE 10TH ANNIVERSARY POP-UP",
+      "title": "Medusa: At Sea // Sunday 16 November / Season Launch // on SEADECK",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/homebase-10th-anniversary-pop-up-tickets-1892929295479?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1162945923%2F118564672423%2F1%2Foriginal.20251026-212237?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C341%2C2048%2C1024&s=5b4734d02e11c77a0db3c19d9c0d1c55"
+      "link": "https://www.eventbrite.com.au/e/medusa-at-sea-sunday-16-november-season-launch-on-seadeck-tickets-1677929876429?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1156565653%2F486316414041%2F1%2Foriginal.20251018-143842?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=d46a079246334505415b879a8d88def4"
     },
     {
       "title": "Free Meditation - Uplift your wellbeing @ Dee Why , Sydney",
@@ -217,6 +210,13 @@
       "location": "Dee Why, NSW",
       "link": "https://www.eventbrite.com.au/e/free-meditation-uplift-your-wellbeing-dee-why-sydney-tickets-558630397557?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F820129559%2F206013995454%2F1%2Foriginal.20240804-080852?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C23%2C4032%2C2016&s=be299265d0c71bf05323642ea8c9b401"
+    },
+    {
+      "title": "Let's Meditate Sydney:  Free On-line Guided -Energy Awakening & Meditation",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/lets-meditate-sydney-free-on-line-guided-energy-awakening-meditation-tickets-1444594303449?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1062791423%2F2733633168271%2F1%2Foriginal.20250629-122849?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.489680363582&fp-y=0.0419723080917&s=305ed0d7bd0432117a60c02b58c4f2ec"
     }
   ]
 }
