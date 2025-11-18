@@ -1,19 +1,12 @@
 {
-  "last_updated": "2025-11-17T12:42:42.327287Z",
+  "last_updated": "2025-11-18T01:39:05.032351Z",
   "events": [
-    {
-      "title": "ACS Nano Summit 2025",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/acs-nano-summit-2025-tickets-1555119587549?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1059928393%2F448943960386%2F1%2Foriginal.20250624-232456?w=301&auto=format%2Ccompress&q=75&sharp=10&s=978abd7287b66877fdad37d90b37fde8"
-    },
     {
       "title": "The Future of Talent: Navigating Tomorrow's Workforce Landscape",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.co.uk/e/the-future-of-talent-navigating-tomorrows-workforce-landscape-tickets-1471475726509?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1068502383%2F2173658751363%2F1%2Foriginal.20250707-231006?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d2c6367b8469f50e02cccfaefd90820"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1068502383%2F2173658751363%2F1%2Foriginal.20250707-231006?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=01bd2777b9a8213344f6831cc61b21c5"
     },
     {
       "title": "UNSW Founders New Wave Showcase",
@@ -27,7 +20,14 @@
       "date": "Upcoming",
       "location": "Darlinghurst, NSW",
       "link": "https://www.eventbrite.com.au/e/sultry-sample-nov-28-oxford-art-factory-tickets-1801044766379?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149800033%2F2220649993493%2F1%2Foriginal.20251010-085908?crop=focalpoint&fit=crop&w=301&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.031&fp-y=0.097&s=47f678c175cc13f23a9103c6acac52e9"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149800033%2F2220649993493%2F1%2Foriginal.20251010-085908?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.031&fp-y=0.097&s=34d8e62f4c5b3544b9668551ebc0cb28"
+    },
+    {
+      "title": "Living Cities: Walking Sydney with Belinda Castles",
+      "date": "Upcoming",
+      "location": "Marrickville, NSW",
+      "link": "https://www.eventbrite.com.au/e/living-cities-walking-sydney-with-belinda-castles-tickets-1558137785059?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1151391283%2F192008971764%2F1%2Foriginal.20251012-233010?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=aa5fd40c262e37016ceee72270e9fb63"
     },
     {
       "title": "Claptone Sydney",
@@ -58,11 +58,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1118420603%2F2809420874431%2F1%2Foriginal.20250909-060743?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.0397727272727&fp-y=0.0764925373134&s=551c71f119888bf9915068b7b69afe63"
     },
     {
-      "title": "Cashflow Unlocked - Sydney Central",
+      "title": "Boxing Day Lunch Cruise | All inclusive | Sydney to Hobart Yacht Race",
       "date": "Upcoming",
-      "location": "Surry Hills, NSW",
-      "link": "https://www.eventbrite.com.au/e/cashflow-unlocked-sydney-central-tickets-1903618687739?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1164152453%2F2951844499561%2F1%2Foriginal.20251028-063341?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C34%2C1764%2C882&s=0ebd3e94ba9a09f758e3ffd011d7fd1a"
+      "location": "The Rocks, NSW",
+      "link": "https://www.eventbrite.com/e/boxing-day-lunch-cruise-all-inclusive-sydney-to-hobart-yacht-race-tickets-1860945360669?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1160288903%2F1869499194683%2F1%2Foriginal.20251023-013806?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=100%2C0%2C1600%2C800&s=679e67cfbdc5633139b31643a3b1db7a"
     },
     {
       "title": "SEADECK SATURDAYS x BODY TALK",
@@ -114,46 +114,46 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1162187413%2F164065011780%2F1%2Foriginal.20251025-054129?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C299%2C4574%2C2287&s=b249e55b20d0690d4029fbd882c99692"
     },
     {
-      "title": "Financial Controlling & AI Data Governance avanzata",
+      "title": "Unlocking the Power of Cybersecurity with Artificial Intelligence",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-financial-controlling-ai-data-governance-avanzata-1907290620589?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1167114603%2F315708431845%2F1%2Foriginal.20251031-084249?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C65%2C1726%2C863&s=876ba63674ccd409010084d0b407dbad"
+      "link": "https://www.eventbrite.com/e/unlocking-the-power-of-cybersecurity-with-artificial-intelligence-tickets-1571830921599?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F815433369%2F330415169387%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=f96c3d6f17c61d86fb2c756f20b42b8d"
     },
     {
-      "title": "Un futuro per la nostra fauna",
+      "title": "Understanding anxiety for teachers",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-un-futuro-per-la-nostra-fauna-1786671936859?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1147892643%2F1059626121093%2F1%2Foriginal.20251008-142622?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C418%2C600%2C300&s=0a19b6dac803527925df766b2a1b8c84"
+      "link": "https://www.eventbrite.ie/e/understanding-anxiety-for-teachers-tickets-1922483763689?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1166295753%2F39177262496%2F1%2Foriginal.20251030-115941?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=be127ecd2a37d6fa6fbe14a01d29b964"
     },
     {
-      "title": "Ideare un\u2019AI conversazionale per un museo",
+      "title": "Trying for a baby? How to best prepare your body.",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-ideare-unai-conversazionale-per-un-museo-1718669981179?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F955193473%2F484663725641%2F1%2Foriginal.20250207-120257?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1564%2C782&s=f36d23b9e75eea288be5e665baaa047d"
+      "link": "https://www.eventbrite.co.uk/e/trying-for-a-baby-how-to-best-prepare-your-body-tickets-1967582976649?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170686880%2F511341064913%2F1%2Foriginal.20251111-135612?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=a5f0a2022dc044d2300a0ae5242af6dc"
     },
     {
-      "title": "STRUMENTI, TECNOLOGIE E RIFLESSIONI PER UNA DIDATTICA INCLUSIVA",
+      "title": "Data on the Social Determinants of Health",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-strumenti-tecnologie-e-riflessioni-per-una-didattica-inclusiva-1753859885129?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F859007399%2F194461908966%2F1%2Foriginal.20240925-130828?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0ebe8bd0ddd496b5b3100456cc39948c"
+      "link": "https://www.eventbrite.ca/e/data-on-the-social-determinants-of-health-tickets-1542944812469?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1084107263%2F369560566375%2F1%2Foriginal.20250730-000538?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2b1d879007945158fe67c0718be23c18"
     },
     {
-      "title": "Corso di Educazione e Sicurezza Stradale",
+      "title": "Women in Tech Miami/Ft. Lauderdale - OutGeekWomen",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-corso-di-educazione-e-sicurezza-stradale-1688841202499?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1121311043%2F546138427231%2F1%2Foriginal.20250911-155557?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2158%2C1079&s=c10ef75b2cc83a0ac509c42bb3060a64"
+      "link": "https://www.eventbrite.com/e/women-in-tech-miamift-lauderdale-outgeekwomen-tickets-883771904557?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F938566133%2F529664982707%2F1%2Foriginal.20250117-201400?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.136363636364&fp-y=0.481343283582&s=295e666941acd00571b9a15367e5721b"
     },
     {
-      "title": "Speed Date University: Webinar \"Come avere successo allo Speed Date\"",
+      "title": "Annual Update on the Educational Attainment of CPS Students",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-speed-date-university-webinar-come-avere-successo-allo-speed-date-1468754096039?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1136177073%2F52971982292%2F1%2Foriginal.20250926-093408?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1408%2C704&s=bbffbbf3405245dff0b17b15def9e755"
+      "link": "https://www.eventbrite.com/e/annual-update-on-the-educational-attainment-of-cps-students-tickets-1789358141369?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1149957083%2F272417972114%2F1%2Foriginal.20251010-132930?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=f212d7cdf9103896563ed8f609ebcafd"
     },
     {
       "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
@@ -163,11 +163,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
-      "title": "DOLCI TRADIZIONI, NUOVI SAPORI: IL NATALE SI FA LEGGERO",
+      "title": "NASA\u2019s X-59 First Flight",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.it/e/biglietti-dolci-tradizioni-nuovi-sapori-il-natale-si-fa-leggero-1372841428669?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1034968593%2F186087187424%2F1%2Foriginal.20250520-144526?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ca97cb193734eb273e624f5793c9e5d6"
+      "link": "https://www.eventbrite.com/e/nasas-x-59-first-flight-registration-1005256117107?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1100809473%2F977011528923%2F1%2Foriginal.20250820-164809?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.554529594653&fp-y=0.48492867606&s=203e883c639121ef781a9bba7a389f5b"
     },
     {
       "title": "On X Rapha Presents: LOST IN THE CITY",
