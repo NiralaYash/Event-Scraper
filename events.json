@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-02T01:42:20.601697Z",
+  "last_updated": "2025-12-02T06:34:11.220119Z",
   "events": [
     {
       "title": "Festive Silent Disco -  Sunset Session | Sydney Harbour",
@@ -79,13 +79,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171129887%2F713796481473%2F1%2Foriginal.20251117-103404?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=52980b2b741b112f4aabb0f4619d32b5"
     },
     {
-      "title": "The Island: Beach Club Saturday",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-island-beach-club-saturday-tickets-1360840764359?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1019826103%2F2141025989923%2F1%2Foriginal.20250430-051305?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C245%2C3200%2C1600&s=b29406efbc8b02593036af9d88addc3b"
-    },
-    {
       "title": "Soulmate Sunday Sesh- Summer at Bungalow 8",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -112,6 +105,13 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com/e/the-sydney-run-club-end-of-year-event-tickets-1975273528296?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171631132%2F2966382770031%2F1%2Foriginal.20251124-112127?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C280%2C2048%2C1024&s=772d08384546177ed3bc6f26cc675eb4"
+    },
+    {
+      "title": "Home NYE  Party 2025/26",
+      "date": "Upcoming",
+      "location": "Darling Park, NSW",
+      "link": "https://www.eventbrite.com.au/e/home-nye-party-202526-tickets-1778923932369?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1146414483%2F245967499872%2F1%2Foriginal.20251007-034024?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=71dcc773d33218edbfe2dd9411f39879"
     },
     {
       "title": "Modern Investor Summit 2025",
@@ -149,18 +149,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1145612903%2F661897302603%2F1%2Foriginal.20251006-132627?w=355&auto=format%2Ccompress&q=75&sharp=10&s=bb6a6f8890fdefb00009d8b2f21c0fb6"
     },
     {
-      "title": "AI & Estate Planning: Discover Powerful AI Tools That Save You Time & Money",
+      "title": "How to Do a  Venture Capital Financing",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/ai-estate-planning-discover-powerful-ai-tools-that-save-you-time-money-tickets-1960468135969?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1169944893%2F2878823999191%2F1%2Foriginal.20251104-105000?w=400&auto=format%2Ccompress&q=75&sharp=10&s=9f4ae5f0e72bab4953eccc46a4560e02"
-    },
-    {
-      "title": "#LookCloser: Anti-Racist practice to tackle child exploitation",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/lookcloser-anti-racist-practice-to-tackle-child-exploitation-tickets-1615734648829?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1101575623%2F2830944280961%2F1%2Foriginal.20250821-120025?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ab7c4f32ce360e8ac58de2c7c3739bc2"
+      "link": "https://www.eventbrite.ca/e/how-to-do-a-venture-capital-financing-tickets-812165377507?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F485664049%2F3951017871%2F1%2Foriginal.20210122-000942?w=306&auto=format%2Ccompress&q=75&sharp=10&rect=4%2C0%2C306%2C153&s=ba5e43f03716796bdb9a171c845765cf"
     },
     {
       "title": "Long Island Career Fair",
@@ -168,6 +161,13 @@
       "location": "online",
       "link": "https://www.eventbrite.com/e/long-island-career-fair-tickets-1115001502509?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F917844013%2F316131771624%2F1%2Foriginal.20241215-222946?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=306ab8455156b507254ed1360fd04a89"
+    },
+    {
+      "title": "NASA's Artemis II Mission Launch",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/nasas-artemis-ii-mission-launch-registration-1074571685839?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1016696783%2F977011528923%2F1%2Foriginal.20250425-135833?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492424242424&fp-y=0.598006644518&s=948c860134aff04a589248ad2edef2a5"
     },
     {
       "title": "Drink & Draw with Sam Wallman",
@@ -182,6 +182,20 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/seadeck-saturdays-tickets-1435871222479?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171287107%2F2142623172483%2F1%2Foriginal.20251118-225036?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=38712299a56e735f8fe6c14c7c1c04e1"
+    },
+    {
+      "title": "2025 SANTA PHOTOS - CRONULLA RSL (December 6th)",
+      "date": "Upcoming",
+      "location": "Cronulla, NSW",
+      "link": "https://www.eventbrite.com.au/e/2025-santa-photos-cronulla-rsl-december-6th-tickets-1831877738629?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1154689573%2F2353169401033%2F1%2Foriginal.20251016-055430?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.943&fp-y=0.513&s=c33497530712b9e8e40e13bfc127f11c"
+    },
+    {
+      "title": "The Island: Beach Club Saturday",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/the-island-beach-club-saturday-tickets-1360840764359?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1019826103%2F2141025989923%2F1%2Foriginal.20250430-051305?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C245%2C3200%2C1600&s=b29406efbc8b02593036af9d88addc3b"
     },
     {
       "title": "The Sydney Soulful - Free Community Wellness Gathering",
@@ -205,25 +219,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1170158881%2F1145108830523%2F1%2Foriginal.20251104-230722?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=a3b96c47606235dc7ab01cea2765d52a"
     },
     {
-      "title": "Key Health Christmas Party 2025",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/key-health-christmas-party-2025-tickets-1861833978549?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1160405143%2F1997376634323%2F1%2Foriginal.20251023-060106?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C48%2C584%2C292&s=eb6005e9f77e6fadf56352975c1f9e61"
-    },
-    {
       "title": "Morning Meditation & Picnic  at Sydney Botanical Gardens",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/morning-meditation-picnic-at-sydney-botanical-gardens-tickets-1867417970419?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1161181843%2F345620081913%2F1%2Foriginal.20240108-095753?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C156%2C881%2C440&s=b2f8a34bd9e46a260fe0050efae77786"
-    },
-    {
-      "title": "The Island: Sunday with DARKHORSE & GROUSE B2B KESSIN",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-island-sunday-with-darkhorse-grouse-b2b-kessin-tickets-1360841255829?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F771206709%2F2141025989923%2F1%2Foriginal.20240519-034012?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=78%2C0%2C1844%2C922&s=d4595c76a6136f629322a4fc74f9f2f6"
     }
   ]
 }
