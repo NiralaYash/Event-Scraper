@@ -1,20 +1,6 @@
 {
-  "last_updated": "2026-03-04T18:53:24.403313Z",
+  "last_updated": "2026-03-05T06:54:20.179194Z",
   "events": [
-    {
-      "title": "NSW Women Veterans Reception at NSW Parliament House",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/nsw-women-veterans-reception-at-nsw-parliament-house-tickets-1980841756015?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176410828%2F1387822586513%2F1%2Foriginal.20260202-011035?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bfc31ecd659acbb21e625a8f7939c716"
-    },
-    {
-      "title": "Holi Festival Sydney - Darling Harbour -  8th March 2026",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/holi-festival-sydney-darling-harbour-8th-march-2026-tickets-1977277916475?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172521241%2F36809088512%2F1%2Foriginal.20251208-133941?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1410%2C705&s=fed7ec3c765cc71cf4e0d7aa09eb2683"
-    },
     {
       "title": "Sydney STEM Women Graduate Careers Event",
       "date": "Upcoming",
@@ -28,6 +14,20 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com/e/talum-australia-cafe-del-mar-saturday-14th-march-2026-tickets-1981930563668?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176151654%2F1469010098563%2F1%2Foriginal.20260129-120240?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C171%2C2048%2C1024&s=7ef26239b1df43e333c9b01fb897de94"
+    },
+    {
+      "title": "The Island: Beach Club Saturday",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/the-island-beach-club-saturday-tickets-1360869219469?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1027420413%2F2141025989923%2F1%2Foriginal.20250430-051305?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C245%2C3200%2C1600&s=7a71744977c06008442fae7bac3208a9"
+    },
+    {
+      "title": "Redfern clothes swap",
+      "date": "Upcoming",
+      "location": "Redfern, NSW",
+      "link": "https://www.eventbrite.com.au/e/redfern-clothes-swap-tickets-1981275506374?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1106229343%2F1543550715783%2F1%2Foriginal.20250827-060008?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C557%2C6918%2C3459&s=85413f56818d819e161e31d811740953"
     },
     {
       "title": "FRI 06 MAR - WAO SUPERCLUB @ IVY",
@@ -58,11 +58,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177343723%2F245967499872%2F1%2Foriginal.20260212-023742?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C47%2C1920%2C960&s=9f7001ecd6f898b3939c27db8a276a69"
     },
     {
-      "title": "Sydney Rocks: The Music Experience",
+      "title": "From Idea to Profit: Commercialising Product Using the Power of IP",
       "date": "Upcoming",
-      "location": "Camperdown, NSW",
-      "link": "https://www.eventbrite.com/e/sydney-rocks-the-music-experience-tickets-1983599831493?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178008382%2F2992735323607%2F1%2Foriginal.png?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=82d70a08d51201bbd6a9e388469c6f61"
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/from-idea-to-profit-commercialising-product-using-the-power-of-ip-tickets-1983940935745?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178388830%2F1500080721043%2F1%2Foriginal.20260225-085928?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=71c205bc3e4ab2d1c022d16fdac98403"
     },
     {
       "title": "FRI 06 MAR - WAO SUPERCLUB @ IVY",
@@ -77,6 +77,13 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/holi-festival-sydney-darling-harbour-7th-march-2026-tickets-1126165875449?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172472818%2F36809088512%2F1%2Foriginal.20251207-144545?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1410%2C705&s=2c3f91b88ac0d445b60083083aceab02"
+    },
+    {
+      "title": "No Limits \u2729 Happs Central  \u2729 Sat, 7 Mar  W/ Badgalnxri, Yawdoesitall +More",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/no-limits-happs-central-sat-7-mar-w-badgalnxri-yawdoesitall-more-tickets-1982783299223?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177251822%2F1321676935563%2F1%2Foriginal.20260211-060824?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=63d3a57f653e13a47db8e30b61b977cd"
     },
     {
       "title": "Sydney STEM Women Graduate Careers Event",
@@ -107,20 +114,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175396098%2F2421228637971%2F1%2Foriginal.20260120-230913?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C443%2C3000%2C1500&s=1e7069e2ff490348f7f5eb57579aa121"
     },
     {
-      "title": "Quantum Future Talent 2026 Careers Fair",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/quantum-future-talent-2026-careers-fair-tickets-1982849545367?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177247614%2F321396275987%2F1%2Foriginal.20260211-042540?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C187%2C2500%2C1250&s=75d8a442d52369f1a4124b83695561a6"
-    },
-    {
-      "title": "(ONLINE) John Lithgow and Mark Rosenblatt on GIANT",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/online-john-lithgow-and-mark-rosenblatt-on-giant-tickets-1978159606634?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173137177%2F2802773536521%2F1%2Foriginal.20251217-160235?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.518&fp-y=0.322&s=d3d0412188a26ec43a47f452f3930b45"
-    },
-    {
       "title": "How to Build a 5-minute Drawing Habit",
       "date": "Upcoming",
       "location": "online",
@@ -133,6 +126,13 @@
       "location": "online",
       "link": "https://www.eventbrite.com/e/hhs-industry-power-hour-focused-on-nih-tickets-1978922851520?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173469213%2F1937768820103%2F1%2Foriginal.20251223-192922?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=77b8727333b30fe63068cd4471bd79b0"
+    },
+    {
+      "title": "Understanding the SEND Reforms: Live Q&A with the Twinkl Inclusion Team",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/understanding-the-send-reforms-live-qa-with-the-twinkl-inclusion-team-tickets-1981840526364?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177933086%2F1375061046703%2F1%2Foriginal.20260219-143647?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.159&fp-y=0.407&s=313e8fec33967fe9bc3d7156681c01cd"
     },
     {
       "title": "FRDG Lecture: Key Concepts for Designing Housing that Lasts",
@@ -170,13 +170,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
-      "title": "NSW Women Veterans Reception at NSW Parliament House",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/nsw-women-veterans-reception-at-nsw-parliament-house-tickets-1980841756015?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176410828%2F1387822586513%2F1%2Foriginal.20260202-011035?w=400&auto=format%2Ccompress&q=75&sharp=10&s=bfc31ecd659acbb21e625a8f7939c716"
-    },
-    {
       "title": "B BEIRUT// FRIDAY 6 MARCH// ARCADE",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -189,13 +182,6 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/the-island-beach-club-saturday-tickets-1360867985779?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1027418123%2F2141025989923%2F1%2Foriginal.20250430-051305?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C245%2C3200%2C1600&s=1434d09369a8b9c8cdb939b18247d88f"
-    },
-    {
-      "title": "No Limits \u2729 Happs Central  \u2729 Sat, 7 Mar  W/ Badgalnxri, Yawdoesitall +More",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/no-limits-happs-central-sat-7-mar-w-badgalnxri-yawdoesitall-more-tickets-1982783299223?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177251822%2F1321676935563%2F1%2Foriginal.20260211-060824?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=63d3a57f653e13a47db8e30b61b977cd"
     },
     {
       "title": "DND Oneshot for Neurodiverse Teens | Cronulla Library",
@@ -219,11 +205,25 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177436504%2F261767918967%2F1%2Foriginal.20260213-020807?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=758f79e3094b6d5b5b974c637f2917d2"
     },
     {
+      "title": "SEADECK SATURDAYS x LUCID",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/seadeck-saturdays-x-lucid-tickets-1458992839859?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177701903%2F2142623172483%2F1%2Foriginal.20260217-055926?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f02aa87eba3769f466a520fea1bbc359"
+    },
+    {
       "title": "Holi Festival Sydney - Darling Harbour -  8th March 2026",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/holi-festival-sydney-darling-harbour-8th-march-2026-tickets-1977277916475?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172521241%2F36809088512%2F1%2Foriginal.20251208-133941?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1410%2C705&s=fed7ec3c765cc71cf4e0d7aa09eb2683"
+    },
+    {
+      "title": "Grand Seafood Buffet - 8 March 2026",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/grand-seafood-buffet-8-march-2026-tickets-1977851709706?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1066444283%2F1283235757843%2F1%2Foriginal.20250704-010822?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511885556308&fp-y=0.677481215875&s=d42ca3350b52c669d36524eac366698a"
     }
   ]
 }
