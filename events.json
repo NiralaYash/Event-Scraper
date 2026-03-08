@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T18:35:32.004037Z",
+  "last_updated": "2026-03-08T02:10:54.557090Z",
   "events": [
     {
       "title": "Holi Festival Sydney - Darling Harbour -  8th March 2026",
@@ -37,13 +37,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178388830%2F1500080721043%2F1%2Foriginal.20260225-085928?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=71c205bc3e4ab2d1c022d16fdac98403"
     },
     {
-      "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-free-entry-complimentary-drink-tickets-887309505617?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748918359%2F2055543935043%2F1%2Foriginal.20240422-010025?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6de3c49714627a4ec6139403c1c4be75"
-    },
-    {
       "title": "Holi Festival Sydney - Darling Harbour -  8th March 2026",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -56,6 +49,13 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.co.uk/e/sydney-stem-women-graduate-careers-event-tickets-1426964060919?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1117325973%2F241549342757%2F1%2Foriginal.20250908-120958?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C408%2C2160%2C1080&s=8815c572b5ec96797bd391fa4cee0e54"
+    },
+    {
+      "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-free-entry-complimentary-drink-tickets-887309505617?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748918359%2F2055543935043%2F1%2Foriginal.20240422-010025?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6de3c49714627a4ec6139403c1c4be75"
     },
     {
       "title": "The AI advantage | Transforming business for the future",
@@ -86,39 +86,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178983326%2F1797416342223%2F1%2Foriginal.20260304-061021?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9530cd513e77891245a6f54a3378caa6"
     },
     {
-      "title": "Health Workforce Well-Being Day 2026 Webinar",
+      "title": "Seminar on Big Data, Data Science and Machine Learning",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/health-workforce-well-being-day-2026-webinar-tickets-1983543699601?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178202643%2F147623357239%2F1%2Foriginal.20260223-150526?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.131&fp-y=0.516&s=e2020c8a3a06360ff17c9aa5782c288d"
+      "link": "https://www.eventbrite.com/e/seminar-on-big-data-data-science-and-machine-learning-tickets-787580734177?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144527461%2F198476887449%2F1%2Foriginal.20200728-184657?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C800%2C400&s=fb4e1fc66a673a65f111539844a045da"
+    },
+    {
+      "title": "HBR Book Webinar:  The Transformation Economy",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/hbr-book-webinar-the-transformation-economy-tickets-1980938915622?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175316209%2F24792341007%2F1%2Foriginal.20260120-081104?w=381&auto=format%2Ccompress&q=75&sharp=10&s=5ce5c83f2f784aebd3dfdfc803ed9b89"
+    },
+    {
+      "title": "The Gut-Endo Reset",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com.au/e/the-gut-endo-reset-tickets-1981509607577?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175752723%2F2206279418733%2F1%2Foriginal.20260125-041047?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C291%2C2244%2C1122&s=a76b703899c74035c9cd09ef681be015"
     },
     {
       "title": "The Art of Business Networking",
       "date": "Upcoming",
       "location": "online",
       "link": "https://www.eventbrite.com/e/the-art-of-business-networking-tickets-1982403196325?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1097247883%2F3385470559%2F1%2Foriginal.20250816-031124?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=aaab038ba1f8f669d88d51657d757cf7"
-    },
-    {
-      "title": "Win New Clients On LinkedIn",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/win-new-clients-on-linkedin-tickets-1983808358202?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178298432%2F2562067768741%2F1%2Foriginal.20260224-131613?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.137&fp-y=0.388&s=28b39c9b53f9331ca82d394bfabaca78"
-    },
-    {
-      "title": "Plan Partners: Webinar | A complete guide to Short Term Respite (STR)",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com.au/e/plan-partners-webinar-a-complete-guide-to-short-term-respite-str-tickets-1983056693954?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177444127%2F2827393135741%2F1%2Foriginal.20260213-051817?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=554b0c4d0b1ed3f0f9c83f5a65adbf63"
-    },
-    {
-      "title": "New webinar topic! Workers' Compensation Premium Calculation",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/new-webinar-topic-workers-compensation-premium-calculation-tickets-1980568730388?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174865515%2F267806918107%2F1%2Foriginal.20260114-175128?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=52272c6a1025ede658470e4ec7490d2f"
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1097247883%2F3385470559%2F1%2Foriginal.20250816-031124?crop=focalpoint&fit=crop&w=381&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=cab68eee16e6c872b377074072270168"
     },
     {
       "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
@@ -135,6 +128,13 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1016696783%2F977011528923%2F1%2Foriginal.20250425-135833?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492424242424&fp-y=0.598006644518&s=948c860134aff04a589248ad2edef2a5"
     },
     {
+      "title": "Strengthening Parent-Youth Relationships: Managing Emotions",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.sg/e/strengthening-parent-youth-relationships-managing-emotions-tickets-1984112810828?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178976441%2F2993548776193%2F1%2Foriginal.20260304-032947?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6317f477b3474f6a0c727f29895dfd9a"
+    },
+    {
       "title": "Black Girl Book Fair!",
       "date": "Upcoming",
       "location": "online",
@@ -149,25 +149,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1066444283%2F1283235757843%2F1%2Foriginal.20250704-010822?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511885556308&fp-y=0.677481215875&s=d42ca3350b52c669d36524eac366698a"
     },
     {
-      "title": "La Femme | Women in Whisky Tasting",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/la-femme-women-in-whisky-tasting-tickets-1982336468741?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176646531%2F268773832458%2F1%2Foriginal.20260204-061544?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1200%2C600&s=3a735dbf28fecbe63a5e09f471fede3e"
-    },
-    {
       "title": "THE AFTERNOON SOIR\u00c9E: F1 EDITION",
       "date": "Upcoming",
       "location": "North Bondi, NSW",
       "link": "https://www.eventbrite.com.au/e/the-afternoon-soiree-f1-edition-tickets-1982945130264?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177700351%2F2987403535532%2F1%2Foriginal.20260217-051824?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b3d8b61c59174d668cf7f270761c4c38"
-    },
-    {
-      "title": "Basketry workshop - Random weave sculpture - Cronulla",
-      "date": "Upcoming",
-      "location": "Cronulla, NSW",
-      "link": "https://www.eventbrite.com.au/e/basketry-workshop-random-weave-sculpture-cronulla-tickets-1977113522769?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172427393%2F3939146348%2F1%2Foriginal.20251206-013257?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C52%2C1640%2C820&s=b4aa0d410b141ae955dde99ab5e872a5"
     },
     {
       "title": "International Women's Day Lunch Cruise on Sydney Harbour",
@@ -189,6 +175,20 @@
       "location": "Dee Why, NSW",
       "link": "https://www.eventbrite.com.au/e/free-meditation-uplift-your-wellbeing-dee-why-sydney-tickets-558630397557?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F820129559%2F206013995454%2F1%2Foriginal.20240804-080852?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C23%2C4032%2C2016&s=be299265d0c71bf05323642ea8c9b401"
+    },
+    {
+      "title": "Newtown Food & Street Art Small-Group Tour",
+      "date": "Upcoming",
+      "location": "Newtown, NSW",
+      "link": "https://www.eventbrite.com.au/e/newtown-food-street-art-small-group-tour-tickets-98967750205?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900942413%2F224304768850%2F1%2Foriginal.20241118-021407?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3308%2C1654&s=762bde1e91d0a824c00d4341e729ed11"
+    },
+    {
+      "title": "Let's Meditate Sydney:  Free On-line Guided -Energy Awakening & Meditation",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/lets-meditate-sydney-free-on-line-guided-energy-awakening-meditation-tickets-1444594303449?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1062791423%2F2733633168271%2F1%2Foriginal.20250629-122849?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.489680363582&fp-y=0.0419723080917&s=305ed0d7bd0432117a60c02b58c4f2ec"
     }
   ]
 }
