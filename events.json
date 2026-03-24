@@ -1,26 +1,19 @@
 {
-  "last_updated": "2026-03-21T06:45:39.441148Z",
+  "last_updated": "2026-03-24T02:09:38.666812Z",
   "events": [
-    {
-      "title": "Retro Silent Disco - The Australian Museum - Sydney - SOLD OUT",
-      "date": "Upcoming",
-      "location": "Darlinghurst, NSW",
-      "link": "https://www.eventbrite.com/e/retro-silent-disco-the-australian-museum-sydney-sold-out-tickets-1976875438653?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176777290%2F2526901173761%2F1%2Foriginal.20260205-143451?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=8d5020cff6e24734e04a59c40a62f43f"
-    },
-    {
-      "title": "The Yard Party",
-      "date": "Upcoming",
-      "location": "Marrickville, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-yard-party-tickets-1982150956870?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177796448%2F556218620085%2F1%2Foriginal.20260218-023832?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=75a99e8d4d1fce30cb4af48da0b73cfe"
-    },
     {
       "title": "Laurie Woolever: The gluttony of life",
       "date": "Upcoming",
       "location": "Kensington, NSW",
       "link": "https://www.eventbrite.com.au/e/laurie-woolever-the-gluttony-of-life-registration-1980840765051?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175390356%2F243879337343%2F1%2Foriginal.20260120-221104?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=350acd954acfff477cc8df1c4429d44b"
+    },
+    {
+      "title": "Careers in Semiconductor Design 2026",
+      "date": "Upcoming",
+      "location": "Eveleigh, NSW",
+      "link": "https://www.eventbrite.com.au/e/careers-in-semiconductor-design-2026-tickets-1983323306399?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177789923%2F1533000427133%2F1%2Foriginal.20260218-005816?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C60%2C1920%2C960&s=ddfb206c3aa29ebf61153546a5394a10"
     },
     {
       "title": "Create a Memoir Film - Capture your Family History",
@@ -30,11 +23,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573490%2F2597958638401%2F1%2Foriginal.20251209-010343?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=11e2e539bf4650f0143d7db9ccb7ff44"
     },
     {
-      "title": "ZURI ft. Grossomoddo (FR)",
+      "title": "Engineering the Future: AI Evolving",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/zuri-ft-grossomoddo-fr-tickets-1983848672784?aff=ebdssbcitybrowsenightlife",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178280363%2F1046023766493%2F1%2Foriginal.20260224-064401?w=382&auto=format%2Ccompress&q=75&sharp=10&s=2ad298a8a266ae7162d073c1591dcc30"
+      "link": "https://www.eventbrite.com.au/e/engineering-the-future-ai-evolving-registration-1983420665603?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177887963%2F243760117606%2F1%2Foriginal.20260218-230952?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4da3488ea9c3149b7ec3aee6f9a219ec"
     },
     {
       "title": "HSU & Masif presents ROOLER \"ALL NIGHT LONG\"",
@@ -58,32 +51,25 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178873204%2F282597088620%2F1%2Foriginal.20260303-044330?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4320%2C2160&s=7026905953d87c920a7f180e00846d3f"
     },
     {
-      "title": "Bollywood Club Presents TAMASHA at Barrio Cellar, Sydney",
+      "title": "Supreme Speed Society presents: SYSTEM OVERDRIVE!",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/bollywood-club-presents-tamasha-at-barrio-cellar-sydney-tickets-1985350316240?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180020304%2F99150026607%2F1%2Foriginal.20260317-065218?crop=focalpoint&fit=crop&h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e6cd39ca9d928ddd78cc4e1dc35f947c"
+      "link": "https://www.eventbrite.com/e/supreme-speed-society-presents-system-overdrive-tickets-1983659833962?aff=ebdssbcitybrowsenightlife",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178474841%2F2972356374591%2F1%2Foriginal.20260226-015955?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f18d249103a6daf2774db96b342c9a3a"
     },
     {
-      "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
+      "title": "Capital 2026",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-free-entry-complimentary-drink-tickets-887309505617?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748918359%2F2055543935043%2F1%2Foriginal.20240422-010025?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6de3c49714627a4ec6139403c1c4be75"
+      "link": "https://www.eventbrite.com.au/e/capital-2026-tickets-1983329476855?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177695986%2F54901145563%2F1%2Foriginal.20260217-034200?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d73b3518bcc370e162e3807f95b2568a"
     },
     {
-      "title": "SUTRA SUNRISE ft. STACIE FIELDS // HOME THE VENUE // MAR 21",
+      "title": "The Ordinary Dictionary Pop-Up",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/sutra-sunrise-ft-stacie-fields-home-the-venue-mar-21-tickets-1984654636443?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179311780%2F2235317029053%2F1%2Foriginal.20260308-093720?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C23%2C1920%2C960&s=8cc7d5a10d835ba19fd4927276ce6379"
-    },
-    {
-      "title": "Sydney Town Hall Organ Recital - The Medieval Organ",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/sydney-town-hall-organ-recital-the-medieval-organ-tickets-1983321558170?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1018798963%2F1570337066833%2F1%2Foriginal.20250429-031315?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.486742424242&fp-y=0.601485148515&s=4d9c6e299b32b50acccdf0abc8e7a7c2"
+      "link": "https://www.eventbrite.com/e/the-ordinary-dictionary-pop-up-tickets-1984249969072?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179639134%2F2992377615053%2F1%2Foriginal.20260311-221558?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=de17d486fa74eef811c135852b6285e8"
     },
     {
       "title": "FRI 27 MAR - WAO SUPERCLUB @ IVY",
@@ -93,11 +79,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179640821%2F1489176794133%2F1%2Foriginal.20260311-223534?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=ef60a9e49494c0c7577c802f0b3b7905"
     },
     {
+      "title": "REWIND x SEADECK | SUNSET CRUISE",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/rewind-x-seadeck-sunset-cruise-tickets-1983232623163?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178131946%2F2142623172483%2F1%2Foriginal.20260222-105456?w=400&auto=format%2Ccompress&q=75&sharp=10&s=332e119b3f422bef01bb0b2b3b325866"
+    },
+    {
       "title": "Engineering the Future: AI Evolving",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/engineering-the-future-ai-evolving-registration-1983420665603?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177887963%2F243760117606%2F1%2Foriginal.20260218-230952?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4da3488ea9c3149b7ec3aee6f9a219ec"
+    },
+    {
+      "title": "Lord Mayor\u2019s Welcome for International Students 2026",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/lord-mayors-welcome-for-international-students-2026-tickets-1981065165238?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175396098%2F2421228637971%2F1%2Foriginal.20260120-230913?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C443%2C3000%2C1500&s=1e7069e2ff490348f7f5eb57579aa121"
+    },
+    {
+      "title": "240KM/H -  Sydney Showcase",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/240kmh-sydney-showcase-tickets-1984352175775?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178873204%2F282597088620%2F1%2Foriginal.20260303-044330?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4320%2C2160&s=7026905953d87c920a7f180e00846d3f"
     },
     {
       "title": "Festival of Democracy 2026 | Free Event",
@@ -107,39 +114,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180116464%2F512094176045%2F1%2Foriginal.20260318-072113?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8df258f6531777a3104de20f128ba4a4"
     },
     {
-      "title": "ZURI ft. Nemz & Friends",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/zuri-ft-nemz-friends-tickets-1985336115766?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179995483%2F1046023766493%2F1%2Foriginal.20260316-234442?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.973&fp-y=0.963&s=24f6aaa2f8a4bf3cc32f43e84a7c27b0"
-    },
-    {
-      "title": "Cafecito & Pl\u00e1tica with Maestra Grace Sesma",
+      "title": "Webinaire Manipulateur d'Electroradiologie M\u00e9dicale",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/cafecito-platica-with-maestra-grace-sesma-tickets-1983489154455?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179990956%2F239125202734%2F1%2Foriginal.20260316-225405?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.539&fp-y=0.6&s=03608498f9844aa71c380ff0542c2f90"
-    },
-    {
-      "title": "Poetry in Pyjamas: with Hollie McNish & support from Laurie Bolger",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/poetry-in-pyjamas-with-hollie-mcnish-support-from-laurie-bolger-tickets-1977780553877?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173575180%2F162054163690%2F1%2Foriginal.20251227-191657?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C9%2C2030%2C1015&s=d7077105646ec172f468c01b0196068c"
-    },
-    {
-      "title": "SWAN Webinar: RSD - The Storyteller That Fills in The Blanks",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/swan-webinar-rsd-the-storyteller-that-fills-in-the-blanks-tickets-1981923860619?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176157879%2F530884528183%2F1%2Foriginal.20260129-135243?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ceba326ce761b5b2f8a033d8d96ca2ee"
-    },
-    {
-      "title": "The Fossils of Shropshire",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/the-fossils-of-shropshire-tickets-1982467158638?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176827848%2F168772247378%2F1%2Foriginal.20260205-222145?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C0%2C1586%2C793&s=3f5d6c8e0254e8905f89e671b80451a9"
+      "link": "https://www.eventbrite.fr/e/billets-webinaire-manipulateur-delectroradiologie-medicale-1984131036341?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178600794%2F573870703731%2F1%2Foriginal.20260227-121018?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=c191e78f0881c64a6bd6f08fc591aed8"
     },
     {
       "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
@@ -149,81 +128,102 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
     },
     {
-      "title": "B&N Midday Mystery Virtually Presents: Tana French's THE KEEPER!",
+      "title": "Tout sur NotebookLM",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/bn-midday-mystery-virtually-presents-tana-frenchs-the-keeper-tickets-1979236524725?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179027317%2F57848390869%2F1%2Foriginal.20260304-172914?crop=focalpoint&fit=crop&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.139&fp-y=0.487&s=d2c9afb697a29afd0c47a6285d4fade7"
+      "link": "https://www.eventbrite.fr/e/billets-tout-sur-notebooklm-1980463125521?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175533105%2F2988478518102%2F1%2Foriginal.20260122-093448?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6d5746a91ab3ffd83a1591920c9b252b"
     },
     {
-      "title": "NASA's Artemis II Mission Launch",
+      "title": "Naviguer la complexit\u00e9 de l'itin\u00e9rance",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/nasas-artemis-ii-mission-launch-registration-1074571685839?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1016696783%2F977011528923%2F1%2Foriginal.20250425-135833?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492424242424&fp-y=0.598006644518&s=948c860134aff04a589248ad2edef2a5"
+      "link": "https://www.eventbrite.ca/e/inscription-naviguer-la-complexite-de-litinerance-1983816704165?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178233627%2F811060929783%2F1%2Foriginal.20260223-194015?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C714%2C5712%2C2856&s=27ccded43e1f1e9f3ec1e13778283c15"
     },
     {
-      "title": "Researching your 20th century ancestors",
+      "title": "Acc\u00e9der au financement en \u00e9conomie sociale : leviers et bonnes pratiques",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/researching-your-20th-century-ancestors-tickets-1982962227402?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177365638%2F2824116931731%2F1%2Foriginal.20260212-114822?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.707&s=f46e98ba812fa52546d00956c8fda3ad"
+      "link": "https://www.eventbrite.ca/e/billets-acceder-au-financement-en-economie-sociale-leviers-et-bonnes-pratiques-1978193837018?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174638068%2F119088457431%2F1%2Foriginal.20260112-170508?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0d9fcdd8be5e02c1a19af8622845965b"
     },
     {
-      "title": "The Island: Beach Club Saturday",
+      "title": "Optimiser la stimulation langagi\u00e8re en contexte ext\u00e9rieur",
       "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/the-island-beach-club-saturday-tickets-1360871145229?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1019826103%2F2141025989923%2F1%2Foriginal.20250430-051305?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C245%2C3200%2C1600&s=b29406efbc8b02593036af9d88addc3b"
+      "location": "online",
+      "link": "https://www.eventbrite.ca/e/billets-optimiser-la-stimulation-langagiere-en-contexte-exterieur-1542847090179?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1105365913%2F524820045901%2F1%2Foriginal.20250826-133702?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C6750%2C3375&s=53741891da2c024c3ef4d5e647850f85"
     },
     {
-      "title": "ZURI ft. Grossomoddo (FR)",
+      "title": "Vos finances avec EBO - Remplir ses obligations citoyennes",
       "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/zuri-ft-grossomoddo-fr-tickets-1983848672784?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178280363%2F1046023766493%2F1%2Foriginal.20260224-064401?w=382&auto=format%2Ccompress&q=75&sharp=10&s=2ad298a8a266ae7162d073c1591dcc30"
+      "location": "online",
+      "link": "https://www.eventbrite.ca/e/billets-vos-finances-avec-ebo-remplir-ses-obligations-citoyennes-1975143015930?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178474673%2F504515488003%2F1%2Foriginal.20260226-015710?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=33946d9a80993797db312fcf0cbff200"
     },
     {
-      "title": "Homemade Saturdays - 21st March 2026",
+      "title": "Les troubles cognitifs associ\u00e9s au cancer (TCAC)",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.ca/e/billets-les-troubles-cognitifs-associes-au-cancer-tcac-1976204587118?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1107738773%2F2120180324603%2F1%2Foriginal.20250828-154114?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=50cc1dbd72ef919bcb5c85c2838e6688"
+    },
+    {
+      "title": "HSU & Masif presents ROOLER \"ALL NIGHT LONG\"",
       "date": "Upcoming",
       "location": "Darling Park, NSW",
-      "link": "https://www.eventbrite.com.au/e/homemade-saturdays-21st-march-2026-tickets-1979948025844?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179991945%2F2992588507035%2F1%2Foriginal.20260316-230548?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fa7a0324f658e5e51c5053e844ceb11c"
+      "link": "https://www.eventbrite.com.au/e/hsu-masif-presents-rooler-all-night-long-tickets-1982938004952?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177343723%2F245967499872%2F1%2Foriginal.20260212-023742?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C47%2C1920%2C960&s=9f7001ecd6f898b3939c27db8a276a69"
     },
     {
-      "title": "Entrepreneurs Meetup by We Founders Collab Sydney 2026",
+      "title": "Intimate Group Readings",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/entrepreneurs-meetup-by-we-founders-collab-sydney-2026-tickets-1983600362080?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178008986%2F3494980802%2F1%2Foriginal.20260220-082421?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=dd1b0749226f79428e7ee33e53bd6e1a"
+      "link": "https://www.eventbrite.com.au/e/intimate-group-readings-tickets-1984097217187?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178580172%2F2203060925893%2F1%2Foriginal.png?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=3ee4775151c513a9988195ac3d42fb2b"
     },
     {
-      "title": "Big Night Out Pub Crawl | DRAW ON ME | Saturday 21 March | Sydney",
+      "title": "SWAN Trauma Conference Afternoon Symposium",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/big-night-out-pub-crawl-draw-on-me-saturday-21-march-sydney-tickets-1984091972500?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1028107293%2F154153969751%2F1%2Foriginal.20250511-113724?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=b3470d378d65cf7b106709fbef7a6a3e"
+      "link": "https://www.eventbrite.com.au/e/swan-trauma-conference-afternoon-symposium-tickets-1978060727885?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173099534%2F486906089073%2F1%2Foriginal.20251217-000012?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C120%2C3840%2C1920&s=d3ee8b26823e5d2582770ce4a5ac274f"
     },
     {
-      "title": "'BOLLYWOOD GENZ' Party at Indianclubx, Sydney",
+      "title": "Film Screening: Early Spring\u65e9\u6625\u4e8c\u6708",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/bollywood-genz-party-at-indianclubx-sydney-tickets-1982697238814?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180205997%2F1581357987003%2F1%2Foriginal.20260319-043929?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=5c1ce220c7e3466eadcf8fa35a492c09"
+      "link": "https://www.eventbrite.com.au/e/film-screening-early-spring-tickets-1984337220042?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178846969%2F105414414501%2F1%2Foriginal.20260302-224201?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1260%2C630&s=ed1c4f4f43f4a841b05b69b9fb7ac424"
     },
     {
-      "title": "**MEN SOLD OUT**\u26a1 SpeedAustralia Dating | Ages 25\u201339|Sydney's Dating",
+      "title": "Special Film Screening: The Raftsmen",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com/e/men-sold-out-speedaustralia-dating-ages-2539sydneys-dating-tickets-1983331887064?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172348039%2F289603962789%2F1%2Foriginal.20251204-214413?w=314&auto=format%2Ccompress&q=75&sharp=10&s=59d962150d514a6bf157450733abe91d"
+      "link": "https://www.eventbrite.com.au/e/special-film-screening-the-raftsmen-tickets-1466080318699?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173236097%2F679473379903%2F1%2Foriginal.20251218-220456?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C239%2C2480%2C1240&s=ae965c155f765ab1ed38f263462f73a7"
     },
     {
-      "title": "FAB Wine Fest \u2014 Meet the Makers",
+      "title": "SEADECK SATURDAYS x ELATION",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/fab-wine-fest-meet-the-makers-tickets-1982848988702?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177236197%2F1875075386693%2F1%2Foriginal.20260211-010939?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=ef2459e6106f8224d55e0af7d1fb46d8"
+      "link": "https://www.eventbrite.com.au/e/seadeck-saturdays-x-elation-tickets-1658464324439?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177126068%2F2142623172483%2F1%2Foriginal.20260210-005958?w=400&auto=format%2Ccompress&q=75&sharp=10&s=ccdf9f00f558477d68a61821c5384b4d"
+    },
+    {
+      "title": "Freelance Foundations: Concept to Campaign",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/freelance-foundations-concept-to-campaign-tickets-1984444506940?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178981416%2F1621738193573%2F1%2Foriginal.20260304-051201?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.488&fp-y=0.494&s=b722288ac161b4ea7f41a53bb68cd1ff"
+    },
+    {
+      "title": "Sydney Singles Event | Zeta Bar | Sat March 28 | 25-35",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/sydney-singles-event-zeta-bar-sat-march-28-25-35-tickets-1983713268787?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178135058%2F221333674763%2F1%2Foriginal.20260222-132627?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C96%2C1920%2C960&s=52d2e91e4282f03ebd5c3baf04622f77"
     }
   ]
 }
