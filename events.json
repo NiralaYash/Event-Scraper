@@ -1,13 +1,6 @@
 {
-  "last_updated": "2026-03-29T02:32:43.199697Z",
+  "last_updated": "2026-03-29T07:05:24.807378Z",
   "events": [
-    {
-      "title": "Create a Memoir Film - Capture your Family History",
-      "date": "Upcoming",
-      "location": "Haberfield, NSW",
-      "link": "https://www.eventbrite.com.au/e/create-a-memoir-film-capture-your-family-history-tickets-1977325370411?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172573490%2F2597958638401%2F1%2Foriginal.20251209-010343?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=11e2e539bf4650f0143d7db9ccb7ff44"
-    },
     {
       "title": "Author Talk: Natasha Lester and Cassie Hamer with The Chateau on Sunset",
       "date": "Upcoming",
@@ -28,6 +21,13 @@
       "location": "North Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/ai-made-simple-3-how-ai-learns-tickets-1982860735838?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177439423%2F1334921392293%2F1%2Foriginal.20260213-031541?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=c082ccda12a69a626835aea83e90bbb0"
+    },
+    {
+      "title": "Digital Zine Making Workshop for youth 13-17 years",
+      "date": "Upcoming",
+      "location": "Marrickville, NSW",
+      "link": "https://www.eventbrite.com.au/e/digital-zine-making-workshop-for-youth-13-17-years-tickets-1979957398879?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174179413%2F244738530890%2F1%2Foriginal.20260107-045806?crop=focalpoint&fit=crop&w=400&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3fa8f3d598290358cb1c05bcb54a6ff0"
     },
     {
       "title": "Sublime Rewind | 30 Year Anniversary | 2026",
@@ -58,11 +58,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178474841%2F2972356374591%2F1%2Foriginal.20260226-015955?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f18d249103a6daf2774db96b342c9a3a"
     },
     {
-      "title": "Mitto Izakaya x Kubota Sake Pairing & Symphony of Sh\u014d",
+      "title": "Capital 2026",
       "date": "Upcoming",
-      "location": "The Rocks, NSW",
-      "link": "https://www.eventbrite.com/e/mitto-izakaya-x-kubota-sake-pairing-symphony-of-sho-tickets-1985491588790?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180298154%2F2995610526119%2F1%2Foriginal.20260320-061114?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=979ec84834345dad2fac50182ea36c8f"
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/capital-2026-tickets-1983329476855?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177695986%2F54901145563%2F1%2Foriginal.20260217-034200?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d73b3518bcc370e162e3807f95b2568a"
     },
     {
       "title": "Lord Mayor\u2019s Welcome for International Students 2026",
@@ -77,13 +77,6 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/engineering-the-future-ai-evolving-registration-1983420665603?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177887963%2F243760117606%2F1%2Foriginal.20260218-230952?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=4da3488ea9c3149b7ec3aee6f9a219ec"
-    },
-    {
-      "title": "em4. Sydney",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/em4-sydney-tickets-1984447281238?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178983326%2F1797416342223%2F1%2Foriginal.20260304-061021?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=9530cd513e77891245a6f54a3378caa6"
     },
     {
       "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
@@ -107,11 +100,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173984518%2F370592850131%2F1%2Foriginal.20260105-074234?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1080%2C540&s=0f2035df96d3c2174fa54e306ebb4dff"
     },
     {
+      "title": "Festival of Democracy 2026 | Free Event",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/festival-of-democracy-2026-free-event-tickets-1984456442640?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180116464%2F512094176045%2F1%2Foriginal.20260318-072113?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=8df258f6531777a3104de20f128ba4a4"
+    },
+    {
       "title": "80s, 90s & 00s Silent Disco By Moonlight in Sydney Town Hall - Sat 18th Apr",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.co.uk/e/80s-90s-00s-silent-disco-by-moonlight-in-sydney-town-hall-sat-18th-apr-tickets-1972772712288?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F807792929%2F61565826027%2F1%2Foriginal.20240715-112105?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=1%2C172%2C3982%2C1991&s=1e7661665fc0d7831a1b181de8716bf0"
+    },
+    {
+      "title": "Dreaming of Food: Linking Sleep, Diet & Mental Wellbeing",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com.au/e/dreaming-of-food-linking-sleep-diet-mental-wellbeing-tickets-1982638279465?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177021638%2F266841699544%2F1%2Foriginal.20260209-001156?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.147&fp-y=0.471&s=f5914d02c8a5cbbd52e5d4b39bd25d9a"
+    },
+    {
+      "title": "Trans-Inclusive Culture",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/trans-inclusive-culture-tickets-1982193744850?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177051593%2F490327127879%2F1%2Foriginal.20260209-122513?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C74%2C1600%2C800&s=910d1032b52586d6cc31c1d7756e3072"
     },
     {
       "title": "NASA's Artemis II Mission Launch",
@@ -121,25 +135,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1016696783%2F977011528923%2F1%2Foriginal.20250425-135833?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492424242424&fp-y=0.598006644518&s=948c860134aff04a589248ad2edef2a5"
     },
     {
-      "title": "Seminar on Big Data, Data Science and Machine Learning",
+      "title": "London Professional Hiring Event.",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/seminar-on-big-data-data-science-and-machine-learning-tickets-787580734177?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144527461%2F198476887449%2F1%2Foriginal.20200728-184657?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C800%2C400&s=fb4e1fc66a673a65f111539844a045da"
+      "link": "https://www.eventbrite.com/e/london-professional-hiring-event-tickets-41241689002?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F579318399%2F109033103239%2F1%2Foriginal.jpg?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C10%2C1760%2C880&s=61bc5f636bcb1637a35acee5354d491b"
     },
     {
-      "title": "Strengthening Parent-Youth Relationships: Managing Emotions",
+      "title": "Washington Crossing the Delaware / The Crossing - Film History Livestream",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.sg/e/strengthening-parent-youth-relationships-managing-emotions-tickets-1984112810828?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179348927%2F2993548776193%2F1%2Foriginal.20260309-011346?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=1a2718818cde308d60761717c5b0071c"
-    },
-    {
-      "title": "Researching your 20th century ancestors",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/researching-your-20th-century-ancestors-tickets-1982962227402?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177365638%2F2824116931731%2F1%2Foriginal.20260212-114822?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.707&s=f46e98ba812fa52546d00956c8fda3ad"
+      "link": "https://www.eventbrite.com/e/washington-crossing-the-delaware-the-crossing-film-history-livestream-tickets-1288476210029?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F536316699%2F37309396322%2F1%2Foriginal.20211020-221453?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C422%2C6004%2C3002&s=f271b45ddf4bb7074a185f971f034a11"
     },
     {
       "title": "Attorneys, deputies and decision-making",
@@ -149,18 +156,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175656141%2F449251951336%2F1%2Foriginal.20260123-162150?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C112%2C3590%2C1795&s=15d043c227c4b7fe64bca148e55d882f"
     },
     {
-      "title": "Brain, Behavior, & Mind 2026 Spring Conference",
+      "title": "Quick Guides- Workhouses Records",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/brain-behavior-mind-2026-spring-conference-tickets-1976738810996?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172697264%2F344330650637%2F1%2Foriginal.20251210-170926?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=6c45be667950ca8b5f6e6629c628c92c"
-    },
-    {
-      "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=1790a7734766e877ae40e832f440984d"
+      "link": "https://www.eventbrite.co.uk/e/quick-guides-workhouses-records-tickets-1982007754548?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176254562%2F67908995559%2F1%2Foriginal.20260130-135516?w=339&auto=format%2Ccompress&q=75&sharp=10&s=90475360e584925fff25991cd9186dac"
     },
     {
       "title": "Black Girl Book Fair!",
@@ -168,34 +168,6 @@
       "location": "online",
       "link": "https://www.eventbrite.com/e/black-girl-book-fair-tickets-1979838497241?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174070766%2F1007219303453%2F1%2Foriginal.20260106-030959?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.668&fp-y=0.597&s=56309c32964ceac8bd5e85c6431d5d2f"
-    },
-    {
-      "title": "Grand Seafood Buffet - 29 March 2026",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/grand-seafood-buffet-29-march-2026-tickets-1977851912312?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1066444283%2F1283235757843%2F1%2Foriginal.20250704-010822?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511885556308&fp-y=0.677481215875&s=d42ca3350b52c669d36524eac366698a"
-    },
-    {
-      "title": "Paragon Fit presents the Cronulla Beach Fun Run/ Walk for Stroke Survivors",
-      "date": "Upcoming",
-      "location": "Cronulla, NSW",
-      "link": "https://www.eventbrite.com.au/e/paragon-fit-presents-the-cronulla-beach-fun-run-walk-for-stroke-survivors-tickets-1983328217087?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177691130%2F2992369367723%2F1%2Foriginal.20260217-021601?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=62%2C103%2C1370%2C685&s=21bd6e595fce27721c558e563c9ee768"
-    },
-    {
-      "title": "Guided Meditation & Energy Healing",
-      "date": "Upcoming",
-      "location": "Curl Curl, NSW",
-      "link": "https://www.eventbrite.com.au/e/guided-meditation-energy-healing-tickets-1979830748063?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172121982%2F1149778470783%2F1%2Foriginal.20251202-041306?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=fdd4a716f8c43e585f83f3e3a32dc359"
-    },
-    {
-      "title": "Free Meditation - Uplift your wellbeing @ Dee Why , Sydney",
-      "date": "Upcoming",
-      "location": "Dee Why, NSW",
-      "link": "https://www.eventbrite.com.au/e/free-meditation-uplift-your-wellbeing-dee-why-sydney-tickets-558630397557?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F820129559%2F206013995454%2F1%2Foriginal.20240804-080852?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C23%2C4032%2C2016&s=be299265d0c71bf05323642ea8c9b401"
     },
     {
       "title": "Let's Meditate Sydney:  Free On-line Guided -Energy Awakening & Meditation",
@@ -210,6 +182,20 @@
       "location": "Newtown, NSW",
       "link": "https://www.eventbrite.com.au/e/newtown-food-street-art-small-group-tour-tickets-98967750205?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F900942413%2F224304768850%2F1%2Foriginal.20241118-021407?w=512&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3308%2C1654&s=762bde1e91d0a824c00d4341e729ed11"
+    },
+    {
+      "title": "Cronulla Easter Market",
+      "date": "Upcoming",
+      "location": "Cronulla, NSW",
+      "link": "https://www.eventbrite.com.au/e/cronulla-easter-market-tickets-1985977132063?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180730615%2F233311507760%2F1%2Foriginal.20260326-070551?w=300&auto=format%2Ccompress&q=75&sharp=10&s=5505a673b7e1268a89ba02c98801efbb"
+    },
+    {
+      "title": "Beginners Yoga Workshop",
+      "date": "Upcoming",
+      "location": "Coogee, NSW",
+      "link": "https://www.eventbrite.com.au/e/beginners-yoga-workshop-tickets-1985663798875?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180406041%2F432358136676%2F1%2Foriginal.20260322-121005?w=238&auto=format%2Ccompress&q=75&sharp=10&s=edf2a6d91bac1121beb84ba1501d9cc6"
     }
   ]
 }
