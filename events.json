@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-03T02:27:53.492432Z",
+  "last_updated": "2026-04-04T02:12:49.929487Z",
   "events": [
     {
       "title": "AI Made Simple 4: Hands-On with AI",
@@ -65,18 +65,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179086954%2F2007667711103%2F1%2Foriginal.20260305-072502?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=130%2C0%2C700%2C350&s=44d7a2f118984c2974bf8acb265bf82e"
     },
     {
-      "title": "240KM/H -  Sydney Showcase",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/240kmh-sydney-showcase-tickets-1984352175775?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178873204%2F282597088620%2F1%2Foriginal.20260303-044330?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4320%2C2160&s=7d9942328fe52738ddbf3dc36f09ce24"
-    },
-    {
       "title": "Homemade Saturdays: Free Entry + Complimentary Drink",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/homemade-saturdays-free-entry-complimentary-drink-tickets-887309505617?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F748918359%2F2055543935043%2F1%2Foriginal.20240422-010025?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=9cada594c098bfe726c3e7aec2ad8403"
+    },
+    {
+      "title": "240KM/H -  Sydney Showcase",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/240kmh-sydney-showcase-tickets-1984352175775?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178873204%2F282597088620%2F1%2Foriginal.20260303-044330?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C4320%2C2160&s=7d9942328fe52738ddbf3dc36f09ce24"
     },
     {
       "title": "SEADECK SATURDAYS x ESCAPE | SUNSET EDITION",
@@ -107,11 +107,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180625653%2F2849371545151%2F1%2Foriginal.20260325-020005?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.424&fp-y=0.572&s=2308ecbf3574fbeefdab834230eaf5b9"
     },
     {
-      "title": "Festival of Democracy 2026 | Free Event",
+      "title": "Aggression, Control and the Roots of Violence",
       "date": "Upcoming",
       "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/festival-of-democracy-2026-free-event-tickets-1984456442640?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180116464%2F512094176045%2F1%2Foriginal.20260318-072113?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=6dcbcb9bf0eece2244613b7dac2a399c"
+      "link": "https://www.eventbrite.com.au/e/aggression-control-and-the-roots-of-violence-tickets-1981277185396?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178372901%2F141098479592%2F1%2Foriginal.20260225-021344?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f0a094f4425b39951a55e2ad943d5266"
+    },
+    {
+      "title": "Algorithmic Trading and Financial Data Analysis with Python",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.com/e/algorithmic-trading-and-financial-data-analysis-with-python-tickets-858399364607?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F229802679%2F198476887449%2F1%2Foriginal.20211219-114152?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C170%2C1536%2C768&s=b9ff7c660d72523b4478ef9fee67d8f6"
     },
     {
       "title": "Washington Crossing the Delaware / The Crossing - Film History Livestream",
@@ -142,32 +149,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177365638%2F2824116931731%2F1%2Foriginal.20260212-114822?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.511&fp-y=0.707&s=289b94ee1391f784bb1b31a0bc588916"
     },
     {
-      "title": "ZOOM: The Babblist -  Communication Skills in Infant/Toddlers",
+      "title": "Prevent in Education - Early Years Foundation Stage Training",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/zoom-the-babblist-communication-skills-in-infanttoddlers-tickets-1977101491784?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1174850358%2F321111462149%2F1%2Foriginal.20260114-154908?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.492&fp-y=0.473&s=aa4e471573e4d06e804b3569ef777af5"
+      "link": "https://www.eventbrite.co.uk/e/prevent-in-education-early-years-foundation-stage-training-tickets-1535605771199?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1082501803%2F2000835185893%2F1%2Foriginal.png?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=f93ee3703ca74debdbde3a1586a34ea9"
     },
     {
-      "title": "OT Work Webinar 1 -Foundations to Help Executive Functioning",
+      "title": "How to Do a  Venture Capital Financing",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.ie/e/ot-work-webinar-1-foundations-to-help-executive-functioning-tickets-1981100581168?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175430784%2F51636921832%2F1%2Foriginal.20260121-110407?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2048%2C1024&s=e6ad5db312d1f51e58cee34cf0e5c844"
-    },
-    {
-      "title": "A talk on Colorectal cancer: What GPs should know",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.co.uk/e/a-talk-on-colorectal-cancer-what-gps-should-know-tickets-1982976782938?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179466534%2F317444246081%2F1%2Foriginal.20260310-095249?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e222592a703c6e429c9a7afb4ca2e31d"
-    },
-    {
-      "title": "Career Fair: Exclusive Tech Hiring Event-New Tickets Available",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/career-fair-exclusive-tech-hiring-event-new-tickets-available-tickets-63049080497?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F682597209%2F197361445633%2F1%2Foriginal.20240125-160053?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=7c7585e7679d712882a9ee4a268874ac"
+      "link": "https://www.eventbrite.ca/e/how-to-do-a-venture-capital-financing-tickets-812165377507?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F485664049%2F3951017871%2F1%2Foriginal.20210122-000942?w=306&auto=format%2Ccompress&q=75&sharp=10&rect=4%2C0%2C306%2C153&s=ba5e43f03716796bdb9a171c845765cf"
     },
     {
       "title": "Easter Boat Party + FREE Afterparty (Sat 4) - 90% Sold Out",
@@ -198,13 +191,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1181164137%2F2992588507035%2F1%2Foriginal.20260401-032813?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=200739758602e3686db9e3af82c3b983"
     },
     {
-      "title": "Easter  Saturday ABBA Tribute + Retro DJ Harbour Cruise + Buffet $79p.p",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/easter-saturday-abba-tribute-retro-dj-harbour-cruise-buffet-79pp-tickets-1984444956284?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178979608%2F774646198583%2F1%2Foriginal.20260304-043051?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=e47a8d2b62ac2f648637ac07acdc563d"
-    },
-    {
       "title": "Rhythm & Boat Vibes Sydney | R&B & Hip-Hop Jamz on SEADECK",
       "date": "Upcoming",
       "location": "DARLING HARBOUR, NSW",
@@ -217,6 +203,13 @@
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/sydneys-wildest-bollywood-boat-party-easter-long-weekend-april-5-tickets-1983835455250?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180834512%2F544086713067%2F1%2Foriginal.20260327-132752?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=318eb06440eb97871fe0213e7c39f00a"
+    },
+    {
+      "title": "Scary Canary Pres. Sunday Mass",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/scary-canary-pres-sunday-mass-tickets-1985970131123?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180725181%2F1207756979143%2F1%2Foriginal.20260326-035020?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=3ff8bd4566fe9e9b54e0b75856627fbf"
     }
   ]
 }
