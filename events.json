@@ -1,6 +1,13 @@
 {
-  "last_updated": "2026-04-22T13:42:25.175346Z",
+  "last_updated": "2026-04-23T07:55:21.682398Z",
   "events": [
+    {
+      "title": "Speaker Series: Greek Festival of Sydney : Bridge over the Aegean",
+      "date": "Upcoming",
+      "location": "Marrickville, NSW",
+      "link": "https://www.eventbrite.com.au/e/speaker-series-greek-festival-of-sydney-bridge-over-the-aegean-tickets-1982333083616?aff=ebdssbneighborhoodbrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177034405%2F2987895553718%2F1%2Foriginal.20260209-044535?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e3d2411541f130dd5f9c07cdaf80214c"
+    },
     {
       "title": "Quantum Future Talent 2026 Careers Fair",
       "date": "Upcoming",
@@ -21,13 +28,6 @@
       "location": "North Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/sounds-on-sunday-june-long-weekend-2026-tickets-1982642744821?aff=ebdssbneighborhoodbrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177025563%2F246181746171%2F1%2Foriginal.20260209-012515?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=f916f7d905800eabbfe3c5272e521063"
-    },
-    {
-      "title": "HSC Workshop: Module A \u2013 Textual Conversations",
-      "date": "Upcoming",
-      "location": "Marrickville, NSW",
-      "link": "https://www.eventbrite.com.au/e/hsc-workshop-module-a-textual-conversations-tickets-1979682037265?aff=ebdssbneighborhoodbrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1173967691%2F2737170708921%2F1%2Foriginal.20260105-002129?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=4dcec4e452062ebd7541f6c67455df6b"
     },
     {
       "title": "Supreme Speed Society presents: SYSTEM OVERDRIVE!",
@@ -58,6 +58,13 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1099293043%2F2245701384243%2F1%2Foriginal.20250819-063134?crop=focalpoint&fit=crop&w=320&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.48162466107&fp-y=0.584744820799&s=11dd0cd0ef252cce3aab9f3bc3441489"
     },
     {
+      "title": "Capital 2026",
+      "date": "Upcoming",
+      "location": "Sydney, NSW",
+      "link": "https://www.eventbrite.com.au/e/capital-2026-tickets-1983329476855?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177695986%2F54901145563%2F1%2Foriginal.20260217-034200?h=230&w=460&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=d73b3518bcc370e162e3807f95b2568a"
+    },
+    {
       "title": "FRI 24 APR - WAO SUPERCLUB @ IVY",
       "date": "Upcoming",
       "location": "Sydney, NSW",
@@ -86,18 +93,18 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1180021835%2F1469010098563%2F1%2Foriginal.20260317-075334?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C22%2C1920%2C960&s=7203be4476000a4cdbcfc098b38efd46"
     },
     {
+      "title": "Behaviour and Diverse Learning Symposium 2026",
+      "date": "Upcoming",
+      "location": "The Rocks, NSW",
+      "link": "https://www.eventbrite.com.au/e/behaviour-and-diverse-learning-symposium-2026-tickets-1984346701401?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1179356863%2F306982541207%2F1%2Foriginal.20260309-042246?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C10500%2C5250&s=c2299bd498ed85755f9949cc66cb7ce0"
+    },
+    {
       "title": "Practice Tai Chi \u00b7 Follow the Principles \u00b7 Enjoy Health \u2014 Public Lecture",
       "date": "Upcoming",
       "location": "Sydney, NSW",
       "link": "https://www.eventbrite.com.au/e/practice-tai-chi-follow-the-principles-enjoy-health-public-lecture-tickets-1987657502095?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182532399%2F105414414501%2F1%2Foriginal.20260420-015340?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.807&fp-y=0.527&s=cda834b1b53e77e2ccf4bc5416324310"
-    },
-    {
-      "title": "Capital 2026",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/capital-2026-tickets-1983329476855?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177695986%2F54901145563%2F1%2Foriginal.20260217-034200?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=0f8c525b778b4a7ac53d43aadfcc4c1e"
     },
     {
       "title": "2026 Sydney Disability Connection Expo  Sponsored by Lite n' Easy",
@@ -107,18 +114,32 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1041317863%2F514906467239%2F1%2Foriginal.20250529-062448?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C3000%2C1500&s=e76623f846f12816350732edb49da778"
     },
     {
-      "title": "Australian Tattoo Expo Sydney | 1,000 Tattoo Designs | HUGE Give-aways",
-      "date": "Upcoming",
-      "location": "Sydney, NSW",
-      "link": "https://www.eventbrite.com.au/e/australian-tattoo-expo-sydney-1000-tattoo-designs-huge-give-aways-tickets-1982400187325?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1182293480%2F2887446487041%2F1%2Foriginal.20260416-032937?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=130ba6619a057a0b30753ffbf4bff4ec"
-    },
-    {
       "title": "Seminar on Big Data, Data Science and Machine Learning",
       "date": "Upcoming",
       "location": "online",
       "link": "https://www.eventbrite.com/e/seminar-on-big-data-data-science-and-machine-learning-tickets-787580734177?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F144527461%2F198476887449%2F1%2Foriginal.20200728-184657?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C800%2C400&s=54583f5ab8058a4d1ff678b196569808"
+    },
+    {
+      "title": "Launch Event",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/launch-event-tickets-1974977519927?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1172753217%2F486942784153%2F1%2Foriginal.20251211-101117?w=640&auto=format%2Ccompress&q=75&sharp=10&s=351aae09cd10ecc271348ceac5c8c7cc"
+    },
+    {
+      "title": "Don't be soft on contract software compliance",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/dont-be-soft-on-contract-software-compliance-tickets-1586924376529?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1178998852%2F281111123168%2F1%2Foriginal.20260304-123135?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=80b120d65fb85e7bfe682e59ac4d7810"
+    },
+    {
+      "title": "Beyond the basics: a child and family-centred approach to Enuresis",
+      "date": "Upcoming",
+      "location": "online",
+      "link": "https://www.eventbrite.co.uk/e/beyond-the-basics-a-child-and-family-centred-approach-to-enuresis-tickets-1969217771364?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1175043909%2F359804168329%2F1%2Foriginal.20260116-120729?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C1500%2C750&s=90e6a252dd7c7995952e35d055e546dc"
     },
     {
       "title": "Leadership For Lightworkers: 1000x Your Impact (Live Masterclass)",
@@ -128,13 +149,6 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F801776719%2F410024325749%2F1%2Foriginal.20240704-153037?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=82%2C0%2C4236%2C2118&s=44c0755ac0a61f8365d49d9961772b31"
     },
     {
-      "title": "Virtual Event: Nalini Singh, Archangel's Eternity",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/virtual-event-nalini-singh-archangels-eternity-tickets-1982804120500?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177199837%2F753139337063%2F1%2Foriginal.20260210-185351?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.985&fp-y=0.978&s=47d5788e10828995a10a12ec3afa4cad"
-    },
-    {
       "title": "Cecily Duchess of York: Kings' Mother and Politician",
       "date": "Upcoming",
       "location": "online",
@@ -142,18 +156,11 @@
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1177628372%2F1375051228453%2F1%2Foriginal.20260216-141143?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=949%2C1115%2C2948%2C1474&s=360382a957bd375464922e7844d2cd9f"
     },
     {
-      "title": "Workforce Development Series: Preparing Young People for the Workforce",
+      "title": "Milwaukee Career Fair",
       "date": "Upcoming",
       "location": "online",
-      "link": "https://www.eventbrite.com/e/workforce-development-series-preparing-young-people-for-the-workforce-tickets-1972870773592?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1171376584%2F228580412304%2F1%2Foriginal.20251119-230027?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.515&fp-y=0.502&s=c57994320caa91a85772bd4c3098ee5b"
-    },
-    {
-      "title": "Supporting Your Child's Well-being: Free webinars for parents and caregiver",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.ca/e/supporting-your-childs-well-being-free-webinars-for-parents-and-caregiver-tickets-1981347688272?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1176494804%2F98179627029%2F1%2Foriginal.20260202-204440?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C9000%2C4500&s=c964151bb2fd63b7145e509973f9bcb3"
+      "link": "https://www.eventbrite.com/e/milwaukee-career-fair-tickets-1115017309789?aff=ebdssbcitybrowse",
+      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F917856973%2F316131771624%2F1%2Foriginal.20241215-231129?crop=focalpoint&fit=crop&w=640&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=549f3c27be1109f325b898ca002c854b"
     },
     {
       "title": "How to Do a  Venture Capital Financing",
@@ -161,13 +168,6 @@
       "location": "online",
       "link": "https://www.eventbrite.ca/e/how-to-do-a-venture-capital-financing-tickets-812165377507?aff=ebdssbcitybrowse",
       "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F485664049%2F3951017871%2F1%2Foriginal.20210122-000942?w=306&auto=format%2Ccompress&q=75&sharp=10&rect=4%2C0%2C306%2C153&s=ba5e43f03716796bdb9a171c845765cf"
-    },
-    {
-      "title": "The AI Edge: Supercharge Your Startup Vision",
-      "date": "Upcoming",
-      "location": "online",
-      "link": "https://www.eventbrite.com/e/the-ai-edge-supercharge-your-startup-vision-tickets-1425498467289?aff=ebdssbcitybrowse",
-      "image": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1057869583%2F330415169387%2F1%2Foriginal.png?w=640&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C940%2C470&s=e520c57b2868772710558195879577b0"
     },
     {
       "title": "Da' Retro Harbor Cruise 2026 - Inc. Delicious Buffet $79.00p.p",
